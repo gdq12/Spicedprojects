@@ -4,7 +4,7 @@ Since the outcome is binary (survived/not survived) Logistic Regression was init
 
 Feature engineering and Hyperparameter Optimization were used in an attempt to build the best possible model. 
 
-For this present analysis, a particular emphasis was place on custom building functions that automate Receiver Operating Characteristic (ROC) curves along with Precision-Recall curves for several machine learning model at a time. Therefor, machine learning model assessment is based primarily on these graphs. 
+For this present analysis, a particular emphasis was placed on custom building functions that automate Receiver Operating Characteristic (ROC) curve along with Precision-Recall curve production for several machine learning model at a time. Therefore, machine learning model assessment is based primarily on what these graphs reveal. 
 
 Based on the current graphs in this repository (all *.png files), models still need to be heavly optimized via feature engineering/hyperparameter optimization prior to kaggle competition submission. 
 
