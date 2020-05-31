@@ -6,6 +6,6 @@ Feature engineering and Hyperparameter Optimization were used in an attempt to b
 
 For this present analysis, a particular emphasis was placed on custom building functions that automate Receiver Operating Characteristic (ROC) curve along with Precision-Recall curve production for several machine learning model at a time. Therefore, machine learning model assessment is based primarily on what these graphs reveal. 
 
-Based on the current graphs in this repository (all *.png files), models still need to be heavly optimized via feature engineering/hyperparameter optimization prior to kaggle competition submission. 
+The following ROC and precision-recall curves show the various models attempted for the most part correctly predicted passenger survival rate: 
 
-So model building still in progress...... 
+![curves](https://github.com/spicedacademy/allspice-arrays-code/blob/gloria/Project2Titanic/ROCrf.png) 
