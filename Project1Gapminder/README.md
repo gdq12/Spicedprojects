@@ -5,4 +5,4 @@ The purpose of this project was to replicate the gif graph present by Hans Rosli
 
 ![scatter](https://github.com/spicedacademy/allspice-arrays-code/blob/gloria/Project1Gapminder/scatter.gif)
 
-![histo](https://github.com/spicedacademy/allspice-arrays-code/blob/gloria/Project1Gapminder/histogram.gif)
+![3Dbarplot](https://github.com/spicedacademy/allspice-arrays-code/blob/gloria/Project1Gapminder/bar3D.gif)
