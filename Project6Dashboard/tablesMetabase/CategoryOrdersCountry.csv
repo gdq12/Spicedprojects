@@ -1,0 +1,937 @@
+Category Name,Destination Country,Initial,Latitude,Longitude,Product ID,Product Name,Sum,Supplier ID
+Seafood,Austria,AT,47.51623,14.550072,40,Boston Crab Meat,1674.3999652862549,19
+Grains/Cereals,Germany,DE,51.16569,10.451526,56,Gnocchi di nonna Alice,2097.5999870300293,26
+Meat/Poultry,Spain,ES,40.46367,-3.74922,29,Thüringer Rostbratwurst,4951.600036621094,12
+Grains/Cereals,Venezuela,VE,6.42375,-66.58973,23,Tunnbröd,792.0,9
+Confections,Venezuela,VE,6.42375,-66.58973,27,Schoggi Schokolade,877.4999618530273,11
+Dairy Products,Portugal,PT,39.39987,-8.224454,59,Raclette Courdavault,396.0,28
+Dairy Products,France,FR,46.22764,2.213749,69,Gudbrandsdalsost,2267.999973297119,15
+Seafood,Denmark,DK,56.26392,9.501785,45,Rogede sild,227.99999713897705,21
+Beverages,Argentina,AR,-38.416096,-63.616673,35,Steeleye Stout,54.0,16
+Beverages,Portugal,PT,39.39987,-8.224454,35,Steeleye Stout,360.0,16
+Condiments,USA,US,37.09024,-95.71289,4,Chef Anton's Cajun Seasoning,1188.0000133514404,2
+Dairy Products,Belgium,BE,50.503887,4.469936,60,Camembert Pierrot,1088.0000305175781,28
+Beverages,Austria,AT,47.51623,14.550072,38,Côte de Blaye,14756.000213623047,18
+Grains/Cereals,Mexico,MX,23.6345,-102.55279,57,Ravioli Angelo,97.5,26
+Dairy Products,Ireland,IE,53.41291,-8.24389,60,Camembert Pierrot,163.20000457763672,28
+Beverages,Denmark,DK,56.26392,9.501785,35,Steeleye Stout,180.0,16
+Beverages,Spain,ES,40.46367,-3.74922,75,Rhönbräu Klosterbier,309.99999046325684,12
+Grains/Cereals,Finland,FI,61.92411,25.748152,42,Singaporean Hokkien Fried Mee,84.0,20
+Dairy Products,Sweden,SE,60.128162,18.643501,60,Camembert Pierrot,1088.0000114440918,28
+Confections,Sweden,SE,60.128162,18.643501,68,Scottish Longbreads,210.0,8
+Beverages,Germany,DE,51.16569,10.451526,70,Outback Lager,1737.0,7
+Meat/Poultry,Austria,AT,47.51623,14.550072,17,Alice Mutton,7098.000034332275,7
+Confections,France,FR,46.22764,2.213749,48,Chocolade,102.0,22
+Seafood,Switzerland,CH,46.818188,8.227512,30,Nord-Ost Matjeshering,776.6999816894531,13
+Grains/Cereals,Austria,AT,47.51623,14.550072,56,Gnocchi di nonna Alice,3571.999988555908,26
+Beverages,Brazil,BR,-14.235004,-51.92528,1,Chai,881.9999961853027,1
+Beverages,Italy,IT,41.87194,12.56738,39,Chartreuse verte,36.0,18
+Seafood,USA,US,37.09024,-95.71289,13,Konbu,1560.0000019073486,6
+Confections,Finland,FI,61.92411,25.748152,19,Teatime Chocolate Biscuits,256.4000015258789,8
+Confections,Spain,ES,40.46367,-3.74922,68,Scottish Longbreads,400.0,8
+Confections,USA,US,37.09024,-95.71289,62,Tarte au sucre,16362.800003051758,29
+Dairy Products,Venezuela,VE,6.42375,-66.58973,12,Queso Manchego La Pastora,1140.0,5
+Beverages,UK,GB,55.37805,-3.435973,2,Chang,626.9999980926514,1
+Seafood,Argentina,AR,-38.416096,-63.616673,41,Jack's New England Clam Chowder,96.49999618530273,19
+Beverages,Belgium,BE,50.503887,4.469936,70,Outback Lager,900.0,7
+Condiments,Brazil,BR,-14.235004,-51.92528,65,Louisiana Fiery Hot Pepper Sauce,2375.8499031066895,2
+Seafood,Germany,DE,51.16569,10.451526,10,Ikura,1339.1999816894531,4
+Grains/Cereals,USA,US,37.09024,-95.71289,42,Singaporean Hokkien Fried Mee,1246.0,20
+Confections,Argentina,AR,-38.416096,-63.616673,68,Scottish Longbreads,75.0,8
+Meat/Poultry,UK,GB,55.37805,-3.435973,17,Alice Mutton,975.0,7
+Dairy Products,UK,GB,55.37805,-3.435973,60,Camembert Pierrot,5100.000061035156,28
+Beverages,Argentina,AR,-38.416096,-63.616673,38,Côte de Blaye,527.0,18
+Seafood,Brazil,BR,-14.235004,-51.92528,30,Nord-Ost Matjeshering,2511.3299407958984,13
+Seafood,Ireland,IE,53.41291,-8.24389,36,Inlagd Sill,721.9999923706055,17
+Produce,Brazil,BR,-14.235004,-51.92528,28,Rössle Sauerkraut,1893.6000518798828,12
+Beverages,Sweden,SE,60.128162,18.643501,35,Steeleye Stout,115.19999694824219,16
+Beverages,Norway,NO,60.472023,8.468946,35,Steeleye Stout,144.0,16
+Condiments,Canada,CA,56.130367,-106.34677,4,Chef Anton's Cajun Seasoning,176.00000381469727,2
+Meat/Poultry,Germany,DE,51.16569,10.451526,54,Tourtière,774.7999801635742,25
+Seafood,Italy,IT,41.87194,12.56738,36,Inlagd Sill,570.0,17
+Beverages,Mexico,MX,23.6345,-102.55279,24,Guaraná Fantástica,148.49999904632568,10
+Beverages,France,FR,46.22764,2.213749,75,Rhönbräu Klosterbier,567.2999954223633,12
+Dairy Products,Canada,CA,56.130367,-106.34677,33,Geitost,135.5,15
+Beverages,Brazil,BR,-14.235004,-51.92528,43,Ipoh Coffee,3956.0,20
+Confections,Canada,CA,56.130367,-106.34677,25,NuNuCa Nuß-Nougat-Creme,741.9999885559082,11
+Confections,UK,GB,55.37805,-3.435973,19,Teatime Chocolate Biscuits,45.999999046325684,8
+Dairy Products,Poland,PL,51.919437,19.145136,60,Camembert Pierrot,510.0,28
+Beverages,Belgium,BE,50.503887,4.469936,2,Chang,380.0,1
+Seafood,Venezuela,VE,6.42375,-66.58973,13,Konbu,468.0,6
+Meat/Poultry,Sweden,SE,60.128162,18.643501,55,Pâté chinois,1248.000015258789,25
+Grains/Cereals,UK,GB,55.37805,-3.435973,22,Gustaf's Knäckebröd,726.5999908447266,9
+Meat/Poultry,Austria,AT,47.51623,14.550072,54,Tourtière,472.00000762939453,25
+Confections,UK,GB,55.37805,-3.435973,68,Scottish Longbreads,250.0,8
+Produce,Argentina,AR,-38.416096,-63.616673,7,Uncle Bob's Organic Dried Pears,180.0,3
+Beverages,Austria,AT,47.51623,14.550072,2,Chang,911.9999904632568,1
+Meat/Poultry,Finland,FI,61.92411,25.748152,29,Thüringer Rostbratwurst,1237.9000091552734,12
+Seafood,Denmark,DK,56.26392,9.501785,10,Ikura,1333.0,4
+Dairy Products,Austria,AT,47.51623,14.550072,69,Gudbrandsdalsost,6479.999961853027,15
+Confections,France,FR,46.22764,2.213749,68,Scottish Longbreads,325.0,8
+Beverages,Denmark,DK,56.26392,9.501785,34,Sasquatch Ale,599.1999931335449,16
+Seafood,Venezuela,VE,6.42375,-66.58973,45,Rogede sild,475.0,21
+Confections,Sweden,SE,60.128162,18.643501,62,Tarte au sucre,295.7999954223633,29
+Confections,Belgium,BE,50.503887,4.469936,19,Teatime Chocolate Biscuits,153.30000400543213,8
+Beverages,Mexico,MX,23.6345,-102.55279,43,Ipoh Coffee,920.0,20
+Confections,Brazil,BR,-14.235004,-51.92528,21,Sir Rodney's Scones,400.0,8
+Beverages,Germany,DE,51.16569,10.451526,43,Ipoh Coffee,4379.199970245361,20
+Condiments,Brazil,BR,-14.235004,-51.92528,8,Northwoods Cranberry Sauce,2800.0,3
+Confections,Ireland,IE,53.41291,-8.24389,16,Pavlova,628.2000274658203,7
+Produce,Portugal,PT,39.39987,-8.224454,51,Manjimup Dried Apples,763.2000274658203,24
+Beverages,France,FR,46.22764,2.213749,67,Laughing Lumberjack Lager,336.0,16
+Beverages,Italy,IT,41.87194,12.56738,2,Chang,190.0,1
+Meat/Poultry,Belgium,BE,50.503887,4.469936,17,Alice Mutton,1248.0000305175781,7
+Seafood,USA,US,37.09024,-95.71289,40,Boston Crab Meat,1876.599962234497,19
+Produce,Venezuela,VE,6.42375,-66.58973,74,Longlife Tofu,240.0,4
+Condiments,Brazil,BR,-14.235004,-51.92528,63,Vegie-spread,561.5999755859375,7
+Condiments,Denmark,DK,56.26392,9.501785,77,Original Frankfurter grüne Soße,1167.3999786376953,12
+Confections,Argentina,AR,-38.416096,-63.616673,49,Maxilaku,40.0,23
+Beverages,UK,GB,55.37805,-3.435973,39,Chartreuse verte,287.99999237060547,18
+Grains/Cereals,Venezuela,VE,6.42375,-66.58973,52,Filo Mix,140.0,24
+Seafood,Austria,AT,47.51623,14.550072,18,Carnarvon Tigers,2637.5,7
+Dairy Products,Austria,AT,47.51623,14.550072,60,Camembert Pierrot,5440.0,28
+Confections,Portugal,PT,39.39987,-8.224454,68,Scottish Longbreads,100.0,8
+Condiments,UK,GB,55.37805,-3.435973,5,Chef Anton's Gumbo Mix,1281.0000228881836,2
+Beverages,Sweden,SE,60.128162,18.643501,70,Outback Lager,885.0,7
+Beverages,Brazil,BR,-14.235004,-51.92528,24,Guaraná Fantástica,638.9999985694885,10
+Dairy Products,Mexico,MX,23.6345,-102.55279,11,Queso Cabrales,2020.1999816894531,5
+Confections,Italy,IT,41.87194,12.56738,19,Teatime Chocolate Biscuits,45.999999046325684,8
+Beverages,Argentina,AR,-38.416096,-63.616673,75,Rhönbräu Klosterbier,155.0,12
+Confections,Argentina,AR,-38.416096,-63.616673,20,Sir Rodney's Marmalade,1620.0,8
+Confections,France,FR,46.22764,2.213749,49,Maxilaku,560.0,23
+Meat/Poultry,Germany,DE,51.16569,10.451526,55,Pâté chinois,4526.400131225586,25
+Beverages,Canada,CA,56.130367,-106.34677,1,Chai,1440.0,1
+Condiments,USA,US,37.09024,-95.71289,61,Sirop d'érable,3505.499931335449,29
+Condiments,Belgium,BE,50.503887,4.469936,4,Chef Anton's Cajun Seasoning,462.0,2
+Confections,Portugal,PT,39.39987,-8.224454,21,Sir Rodney's Scones,248.0,8
+Produce,France,FR,46.22764,2.213749,28,Rössle Sauerkraut,1456.800033569336,12
+Beverages,France,FR,46.22764,2.213749,70,Outback Lager,750.0,7
+Seafood,Portugal,PT,39.39987,-8.224454,10,Ikura,744.0,4
+Grains/Cereals,Canada,CA,56.130367,-106.34677,23,Tunnbröd,71.99999809265137,9
+Condiments,Germany,DE,51.16569,10.451526,77,Original Frankfurter grüne Soße,2365.999969482422,12
+Meat/Poultry,Venezuela,VE,6.42375,-66.58973,53,Perth Pasties,1834.0000534057617,24
+Condiments,Austria,AT,47.51623,14.550072,44,Gula Malacca,1193.5,20
+Confections,Portugal,PT,39.39987,-8.224454,16,Pavlova,698.0000305175781,7
+Condiments,Sweden,SE,60.128162,18.643501,66,Louisiana Hot Spiced Okra,850.0,2
+Beverages,Germany,DE,51.16569,10.451526,67,Laughing Lumberjack Lager,405.9999990463257,16
+Seafood,Mexico,MX,23.6345,-102.55279,10,Ikura,433.9999885559082,4
+Seafood,Belgium,BE,50.503887,4.469936,10,Ikura,496.0,4
+Meat/Poultry,Canada,CA,56.130367,-106.34677,55,Pâté chinois,288.0000114440918,25
+Seafood,Argentina,AR,-38.416096,-63.616673,40,Boston Crab Meat,293.99999618530273,19
+Beverages,Mexico,MX,23.6345,-102.55279,34,Sasquatch Ale,560.0,16
+Condiments,Portugal,PT,39.39987,-8.224454,8,Northwoods Cranberry Sauce,1200.0,3
+Condiments,Italy,IT,41.87194,12.56738,77,Original Frankfurter grüne Soße,390.0,12
+Beverages,Belgium,BE,50.503887,4.469936,35,Steeleye Stout,1080.0,16
+Confections,Denmark,DK,56.26392,9.501785,50,Valkoinen suklaa,325.0,23
+Dairy Products,Brazil,BR,-14.235004,-51.92528,72,Mozzarella di Giovanni,1689.5999565124512,14
+Grains/Cereals,Brazil,BR,-14.235004,-51.92528,23,Tunnbröd,72.0,9
+Beverages,UK,GB,55.37805,-3.435973,43,Ipoh Coffee,1656.0,20
+Seafood,UK,GB,55.37805,-3.435973,46,Spegesild,516.0,21
+Dairy Products,Venezuela,VE,6.42375,-66.58973,69,Gudbrandsdalsost,2174.3999824523926,15
+Grains/Cereals,Argentina,AR,-38.416096,-63.616673,57,Ravioli Angelo,390.0,26
+Confections,Belgium,BE,50.503887,4.469936,25,NuNuCa Nuß-Nougat-Creme,168.0,11
+Confections,USA,US,37.09024,-95.71289,47,Zaanse koeken,627.0,22
+Seafood,France,FR,46.22764,2.213749,13,Konbu,162.0,6
+Confections,Venezuela,VE,6.42375,-66.58973,25,NuNuCa Nuß-Nougat-Creme,630.0,11
+Confections,USA,US,37.09024,-95.71289,21,Sir Rodney's Scones,1390.0,8
+Beverages,Switzerland,CH,46.818188,8.227512,2,Chang,1063.9999961853027,1
+Produce,Brazil,BR,-14.235004,-51.92528,7,Uncle Bob's Organic Dried Pears,90.0,3
+Beverages,Venezuela,VE,6.42375,-66.58973,39,Chartreuse verte,410.39999771118164,18
+Seafood,Sweden,SE,60.128162,18.643501,73,Röd Kaviar,1185.0,17
+Dairy Products,UK,GB,55.37805,-3.435973,69,Gudbrandsdalsost,971.9999771118164,15
+Confections,Germany,DE,51.16569,10.451526,26,Gumbär Gummibärchen,6156.539909362793,11
+Grains/Cereals,Finland,FI,61.92411,25.748152,22,Gustaf's Knäckebröd,504.0,9
+Condiments,Venezuela,VE,6.42375,-66.58973,77,Original Frankfurter grüne Soße,545.9999942779541,12
+Confections,Switzerland,CH,46.818188,8.227512,21,Sir Rodney's Scones,400.0,8
+Grains/Cereals,France,FR,46.22764,2.213749,64,Wimmers gute Semmelknödel,1775.5500144958496,12
+Seafood,Finland,FI,61.92411,25.748152,13,Konbu,180.0,6
+Dairy Products,Argentina,AR,-38.416096,-63.616673,32,Mascarpone Fabioli,192.0,14
+Condiments,Brazil,BR,-14.235004,-51.92528,5,Chef Anton's Gumbo Mix,340.0,2
+Dairy Products,Canada,CA,56.130367,-106.34677,31,Gorgonzola Telino,420.0,14
+Confections,Sweden,SE,60.128162,18.643501,49,Maxilaku,300.0,23
+Grains/Cereals,UK,GB,55.37805,-3.435973,64,Wimmers gute Semmelknödel,239.40000343322754,12
+Condiments,Italy,IT,41.87194,12.56738,4,Chef Anton's Cajun Seasoning,330.0,2
+Grains/Cereals,Sweden,SE,60.128162,18.643501,22,Gustaf's Knäckebröd,525.0,9
+Dairy Products,Austria,AT,47.51623,14.550072,33,Geitost,120.0,15
+Beverages,Portugal,PT,39.39987,-8.224454,24,Guaraná Fantástica,35.999999046325684,10
+Condiments,France,FR,46.22764,2.213749,65,Louisiana Fiery Hot Pepper Sauce,1093.1999549865723,2
+Confections,Canada,CA,56.130367,-106.34677,68,Scottish Longbreads,1012.5,8
+Produce,Switzerland,CH,46.818188,8.227512,51,Manjimup Dried Apples,1908.0,24
+Confections,UK,GB,55.37805,-3.435973,48,Chocolade,152.99999713897705,22
+Grains/Cereals,Germany,DE,51.16569,10.451526,23,Tunnbröd,1853.9999799728394,9
+Seafood,Venezuela,VE,6.42375,-66.58973,40,Boston Crab Meat,2115.9999561309814,19
+Confections,Spain,ES,40.46367,-3.74922,47,Zaanse koeken,47.5,22
+Meat/Poultry,UK,GB,55.37805,-3.435973,9,Mishi Kobe Niku,291.0,4
+Produce,France,FR,46.22764,2.213749,7,Uncle Bob's Organic Dried Pears,3624.0,3
+Condiments,Portugal,PT,39.39987,-8.224454,4,Chef Anton's Cajun Seasoning,598.4000129699707,2
+Dairy Products,Germany,DE,51.16569,10.451526,60,Camembert Pierrot,13260.000057220459,28
+Beverages,Finland,FI,61.92411,25.748152,76,Lakkalikööri,180.0,23
+Beverages,Sweden,SE,60.128162,18.643501,24,Guaraná Fantástica,70.19999885559082,10
+Dairy Products,Venezuela,VE,6.42375,-66.58973,72,Mozzarella di Giovanni,2977.5999298095703,14
+Condiments,Germany,DE,51.16569,10.451526,3,Aniseed Syrup,1150.0,1
+Condiments,Argentina,AR,-38.416096,-63.616673,5,Chef Anton's Gumbo Mix,427.00000762939453,2
+Confections,Sweden,SE,60.128162,18.643501,26,Gumbär Gummibärchen,1466.5499782562256,11
+Seafood,Sweden,SE,60.128162,18.643501,58,Escargots de Bourgogne,318.0000114440918,27
+Confections,USA,US,37.09024,-95.71289,27,Schoggi Schokolade,3950.0,11
+Confections,Mexico,MX,23.6345,-102.55279,49,Maxilaku,480.0,23
+Grains/Cereals,Spain,ES,40.46367,-3.74922,57,Ravioli Angelo,280.8000068664551,26
+Condiments,Denmark,DK,56.26392,9.501785,63,Vegie-spread,1756.0000610351562,7
+Dairy Products,Denmark,DK,56.26392,9.501785,59,Raclette Courdavault,1386.0,28
+Meat/Poultry,Ireland,IE,53.41291,-8.24389,29,Thüringer Rostbratwurst,18568.5001373291,12
+Meat/Poultry,France,FR,46.22764,2.213749,29,Thüringer Rostbratwurst,7673.86003112793,12
+Seafood,Belgium,BE,50.503887,4.469936,58,Escargots de Bourgogne,397.5,27
+Dairy Products,Brazil,BR,-14.235004,-51.92528,31,Gorgonzola Telino,1352.5,14
+Condiments,UK,GB,55.37805,-3.435973,66,Louisiana Hot Spiced Okra,408.0,2
+Dairy Products,Canada,CA,56.130367,-106.34677,71,Flotemysost,322.5,15
+Confections,Argentina,AR,-38.416096,-63.616673,26,Gumbär Gummibärchen,149.39999771118164,11
+Grains/Cereals,Italy,IT,41.87194,12.56738,42,Singaporean Hokkien Fried Mee,447.99999237060547,20
+Confections,Austria,AT,47.51623,14.550072,48,Chocolade,713.9999866485596,22
+Dairy Products,Sweden,SE,60.128162,18.643501,71,Flotemysost,791.2000045776367,15
+Confections,USA,US,37.09024,-95.71289,26,Gumbär Gummibärchen,3397.3499488830566,11
+Condiments,Sweden,SE,60.128162,18.643501,61,Sirop d'érable,855.0,29
+Dairy Products,Belgium,BE,50.503887,4.469936,59,Raclette Courdavault,4950.0,28
+Grains/Cereals,Venezuela,VE,6.42375,-66.58973,57,Ravioli Angelo,1228.5,26
+Beverages,Denmark,DK,56.26392,9.501785,76,Lakkalikööri,503.99998664855957,23
+Seafood,Argentina,AR,-38.416096,-63.616673,13,Konbu,30.0,6
+Produce,Canada,CA,56.130367,-106.34677,7,Uncle Bob's Organic Dried Pears,600.0,3
+Seafood,Finland,FI,61.92411,25.748152,45,Rogede sild,380.0,21
+Beverages,USA,US,37.09024,-95.71289,1,Chai,3103.1999855041504,1
+Beverages,Austria,AT,47.51623,14.550072,43,Ipoh Coffee,1150.0,20
+Meat/Poultry,France,FR,46.22764,2.213749,54,Tourtière,466.1000075340271,25
+Beverages,Switzerland,CH,46.818188,8.227512,24,Guaraná Fantástica,53.999998569488525,10
+Confections,Austria,AT,47.51623,14.550072,50,Valkoinen suklaa,357.5,23
+Dairy Products,USA,US,37.09024,-95.71289,12,Queso Manchego La Pastora,4636.0,5
+Grains/Cereals,Finland,FI,61.92411,25.748152,56,Gnocchi di nonna Alice,1900.0,26
+Seafood,France,FR,46.22764,2.213749,41,Jack's New England Clam Chowder,709.9999732971191,19
+Dairy Products,UK,GB,55.37805,-3.435973,72,Mozzarella di Giovanni,1356.7999687194824,14
+Beverages,Belgium,BE,50.503887,4.469936,24,Guaraná Fantástica,54.0,10
+Beverages,Canada,CA,56.130367,-106.34677,35,Steeleye Stout,863.9999771118164,16
+Produce,Germany,DE,51.16569,10.451526,51,Manjimup Dried Apples,7791.000061035156,24
+Seafood,Germany,DE,51.16569,10.451526,45,Rogede sild,950.0,21
+Beverages,Mexico,MX,23.6345,-102.55279,38,Côte de Blaye,3952.5,18
+Condiments,Italy,IT,41.87194,12.56738,5,Chef Anton's Gumbo Mix,320.2500057220459,2
+Condiments,Canada,CA,56.130367,-106.34677,3,Aniseed Syrup,200.0,1
+Condiments,Portugal,PT,39.39987,-8.224454,65,Louisiana Fiery Hot Pepper Sauce,987.7499580383301,2
+Meat/Poultry,Sweden,SE,60.128162,18.643501,29,Thüringer Rostbratwurst,7427.400054931641,12
+Meat/Poultry,Finland,FI,61.92411,25.748152,54,Tourtière,22.34999942779541,25
+Confections,Germany,DE,51.16569,10.451526,49,Maxilaku,1136.0,23
+Seafood,Venezuela,VE,6.42375,-66.58973,46,Spegesild,508.80001068115234,21
+Beverages,Brazil,BR,-14.235004,-51.92528,38,Côte de Blaye,26613.500122070312,18
+Seafood,UK,GB,55.37805,-3.435973,10,Ikura,1116.0,4
+Dairy Products,Argentina,AR,-38.416096,-63.616673,72,Mozzarella di Giovanni,173.99999618530273,14
+Condiments,Venezuela,VE,6.42375,-66.58973,44,Gula Malacca,194.50000762939453,20
+Grains/Cereals,Germany,DE,51.16569,10.451526,22,Gustaf's Knäckebröd,420.0,9
+Dairy Products,Italy,IT,41.87194,12.56738,59,Raclette Courdavault,814.0,28
+Meat/Poultry,Belgium,BE,50.503887,4.469936,55,Pâté chinois,936.0,25
+Confections,Denmark,DK,56.26392,9.501785,68,Scottish Longbreads,960.0,8
+Meat/Poultry,USA,US,37.09024,-95.71289,53,Perth Pasties,5915.999900817871,24
+Produce,USA,US,37.09024,-95.71289,28,Rössle Sauerkraut,1549.1999893188477,12
+Grains/Cereals,Switzerland,CH,46.818188,8.227512,56,Gnocchi di nonna Alice,2736.0,26
+Produce,UK,GB,55.37805,-3.435973,28,Rössle Sauerkraut,1822.3999938964844,12
+Condiments,France,FR,46.22764,2.213749,44,Gula Malacca,311.20001220703125,20
+Seafood,Canada,CA,56.130367,-106.34677,41,Jack's New England Clam Chowder,346.49999141693115,19
+Confections,UK,GB,55.37805,-3.435973,20,Sir Rodney's Marmalade,5265.0,8
+Seafood,France,FR,46.22764,2.213749,10,Ikura,2765.1999588012695,4
+Dairy Products,Canada,CA,56.130367,-106.34677,59,Raclette Courdavault,2200.0,28
+Confections,Venezuela,VE,6.42375,-66.58973,49,Maxilaku,1700.0,23
+Produce,Austria,AT,47.51623,14.550072,51,Manjimup Dried Apples,6360.0,24
+Meat/Poultry,Mexico,MX,23.6345,-102.55279,29,Thüringer Rostbratwurst,396.0,12
+Meat/Poultry,Ireland,IE,53.41291,-8.24389,9,Mishi Kobe Niku,4850.0,4
+Dairy Products,UK,GB,55.37805,-3.435973,31,Gorgonzola Telino,2137.5,14
+Seafood,Venezuela,VE,6.42375,-66.58973,10,Ikura,1053.9999771118164,4
+Confections,Spain,ES,40.46367,-3.74922,25,NuNuCa Nuß-Nougat-Creme,70.0,11
+Seafood,Italy,IT,41.87194,12.56738,45,Rogede sild,38.0,21
+Seafood,USA,US,37.09024,-95.71289,36,Inlagd Sill,3515.0,17
+Dairy Products,Brazil,BR,-14.235004,-51.92528,71,Flotemysost,937.4000015258789,15
+Condiments,Spain,ES,40.46367,-3.74922,77,Original Frankfurter grüne Soße,51.99999809265137,12
+Confections,Spain,ES,40.46367,-3.74922,21,Sir Rodney's Scones,60.0,8
+Meat/Poultry,Denmark,DK,56.26392,9.501785,55,Pâté chinois,1440.0,25
+Produce,Austria,AT,47.51623,14.550072,7,Uncle Bob's Organic Dried Pears,540.0,3
+Meat/Poultry,Venezuela,VE,6.42375,-66.58973,54,Tourtière,148.99999618530273,25
+Confections,USA,US,37.09024,-95.71289,25,NuNuCa Nuß-Nougat-Creme,568.399998664856,11
+Beverages,Sweden,SE,60.128162,18.643501,2,Chang,1405.9999885559082,1
+Produce,Italy,IT,41.87194,12.56738,51,Manjimup Dried Apples,530.0,24
+Produce,Venezuela,VE,6.42375,-66.58973,7,Uncle Bob's Organic Dried Pears,450.0,3
+Seafood,Spain,ES,40.46367,-3.74922,36,Inlagd Sill,342.0,17
+Confections,Norway,NO,60.472023,8.468946,16,Pavlova,261.7500114440918,7
+Grains/Cereals,Switzerland,CH,46.818188,8.227512,57,Ravioli Angelo,585.0,26
+Meat/Poultry,Spain,ES,40.46367,-3.74922,53,Perth Pasties,262.00000762939453,24
+Condiments,Portugal,PT,39.39987,-8.224454,77,Original Frankfurter grüne Soße,72.79999732971191,12
+Seafood,Italy,IT,41.87194,12.56738,41,Jack's New England Clam Chowder,385.99998474121094,19
+Condiments,Argentina,AR,-38.416096,-63.616673,77,Original Frankfurter grüne Soße,195.0,12
+Dairy Products,Mexico,MX,23.6345,-102.55279,31,Gorgonzola Telino,250.0,14
+Confections,Sweden,SE,60.128162,18.643501,16,Pavlova,209.40000915527344,7
+Seafood,Austria,AT,47.51623,14.550072,10,Ikura,3100.0,4
+Condiments,Belgium,BE,50.503887,4.469936,44,Gula Malacca,116.70000457763672,20
+Beverages,Venezuela,VE,6.42375,-66.58973,24,Guaraná Fantástica,175.5,10
+Beverages,Argentina,AR,-38.416096,-63.616673,67,Laughing Lumberjack Lager,280.0,16
+Produce,Poland,PL,51.919437,19.145136,74,Longlife Tofu,200.0,4
+Beverages,Argentina,AR,-38.416096,-63.616673,34,Sasquatch Ale,280.0,16
+Confections,Denmark,DK,56.26392,9.501785,62,Tarte au sucre,985.9999847412109,29
+Seafood,Switzerland,CH,46.818188,8.227512,58,Escargots de Bourgogne,265.0,27
+Beverages,USA,US,37.09024,-95.71289,70,Outback Lager,315.0,7
+Condiments,Ireland,IE,53.41291,-8.24389,4,Chef Anton's Cajun Seasoning,352.00000762939453,2
+Confections,France,FR,46.22764,2.213749,47,Zaanse koeken,512.999997138977,22
+Dairy Products,UK,GB,55.37805,-3.435973,11,Queso Cabrales,1365.0,5
+Meat/Poultry,Ireland,IE,53.41291,-8.24389,53,Perth Pasties,622.4000129699707,24
+Grains/Cereals,Italy,IT,41.87194,12.56738,22,Gustaf's Knäckebröd,840.0,9
+Beverages,UK,GB,55.37805,-3.435973,35,Steeleye Stout,1079.9999828338623,16
+Grains/Cereals,Austria,AT,47.51623,14.550072,23,Tunnbröd,431.9999885559082,9
+Seafood,Brazil,BR,-14.235004,-51.92528,13,Konbu,525.600004196167,6
+Condiments,UK,GB,55.37805,-3.435973,4,Chef Anton's Cajun Seasoning,550.0,2
+Confections,Germany,DE,51.16569,10.451526,27,Schoggi Schokolade,5794.500160217285,11
+Beverages,Italy,IT,41.87194,12.56738,24,Guaraná Fantástica,188.99999618530273,10
+Seafood,UK,GB,55.37805,-3.435973,40,Boston Crab Meat,146.99999809265137,19
+Grains/Cereals,France,FR,46.22764,2.213749,23,Tunnbröd,107.99999713897705,9
+Beverages,Germany,DE,51.16569,10.451526,75,Rhönbräu Klosterbier,1174.899995803833,12
+Confections,Ireland,IE,53.41291,-8.24389,62,Tarte au sucre,591.0000228881836,29
+Seafood,UK,GB,55.37805,-3.435973,30,Nord-Ost Matjeshering,388.34999084472656,13
+Seafood,Mexico,MX,23.6345,-102.55279,45,Rogede sild,199.5,21
+Seafood,Denmark,DK,56.26392,9.501785,46,Spegesild,19.200000762939453,21
+Seafood,Canada,CA,56.130367,-106.34677,18,Carnarvon Tigers,2000.0,7
+Dairy Products,Austria,AT,47.51623,14.550072,59,Raclette Courdavault,9130.0,28
+Grains/Cereals,Venezuela,VE,6.42375,-66.58973,64,Wimmers gute Semmelknödel,1429.75,12
+Dairy Products,Germany,DE,51.16569,10.451526,33,Geitost,205.0,15
+Produce,Austria,AT,47.51623,14.550072,28,Rössle Sauerkraut,5261.199859619141,12
+Meat/Poultry,Mexico,MX,23.6345,-102.55279,54,Tourtière,74.49999809265137,25
+Beverages,Brazil,BR,-14.235004,-51.92528,2,Chang,893.0,1
+Seafood,Venezuela,VE,6.42375,-66.58973,41,Jack's New England Clam Chowder,791.2999687194824,19
+Seafood,Finland,FI,61.92411,25.748152,40,Boston Crab Meat,220.79999542236328,19
+Condiments,USA,US,37.09024,-95.71289,77,Original Frankfurter grüne Soße,987.9999885559082,12
+Grains/Cereals,USA,US,37.09024,-95.71289,23,Tunnbröd,414.0,9
+Produce,Austria,AT,47.51623,14.550072,74,Longlife Tofu,688.0,4
+Condiments,Germany,DE,51.16569,10.451526,65,Louisiana Fiery Hot Pepper Sauce,2785.8998947143555,2
+Beverages,Belgium,BE,50.503887,4.469936,43,Ipoh Coffee,2557.5999755859375,20
+Grains/Cereals,Canada,CA,56.130367,-106.34677,52,Filo Mix,35.0,24
+Confections,Ireland,IE,53.41291,-8.24389,50,Valkoinen suklaa,520.0,23
+Dairy Products,USA,US,37.09024,-95.71289,31,Gorgonzola Telino,2832.5,14
+Meat/Poultry,Denmark,DK,56.26392,9.501785,54,Tourtière,478.6999921798706,25
+Condiments,France,FR,46.22764,2.213749,66,Louisiana Hot Spiced Okra,136.00000381469727,2
+Dairy Products,Venezuela,VE,6.42375,-66.58973,60,Camembert Pierrot,1985.6000328063965,28
+Dairy Products,UK,GB,55.37805,-3.435973,32,Mascarpone Fabioli,768.0,14
+Grains/Cereals,Germany,DE,51.16569,10.451526,52,Filo Mix,139.99999856948853,24
+Dairy Products,Switzerland,CH,46.818188,8.227512,31,Gorgonzola Telino,375.0,14
+Seafood,Spain,ES,40.46367,-3.74922,30,Nord-Ost Matjeshering,357.0900115966797,13
+Grains/Cereals,USA,US,37.09024,-95.71289,56,Gnocchi di nonna Alice,13740.799953460693,26
+Grains/Cereals,Switzerland,CH,46.818188,8.227512,64,Wimmers gute Semmelknödel,798.0000114440918,12
+Grains/Cereals,Austria,AT,47.51623,14.550072,57,Ravioli Angelo,1248.0000095367432,26
+Meat/Poultry,Brazil,BR,-14.235004,-51.92528,9,Mishi Kobe Niku,1551.9999694824219,4
+Confections,Finland,FI,61.92411,25.748152,21,Sir Rodney's Scones,280.0,8
+Beverages,Portugal,PT,39.39987,-8.224454,43,Ipoh Coffee,110.39999771118164,20
+Beverages,France,FR,46.22764,2.213749,76,Lakkalikööri,1749.5999870300293,23
+Dairy Products,France,FR,46.22764,2.213749,11,Queso Cabrales,1113.0,5
+Confections,France,FR,46.22764,2.213749,27,Schoggi Schokolade,439.00001525878906,11
+Beverages,Austria,AT,47.51623,14.550072,75,Rhönbräu Klosterbier,441.75,12
+Meat/Poultry,Brazil,BR,-14.235004,-51.92528,54,Tourtière,409.7999954223633,25
+Produce,Finland,FI,61.92411,25.748152,74,Longlife Tofu,350.0,4
+Grains/Cereals,USA,US,37.09024,-95.71289,22,Gustaf's Knäckebröd,1008.0,9
+Dairy Products,Germany,DE,51.16569,10.451526,12,Queso Manchego La Pastora,2698.0,5
+Seafood,UK,GB,55.37805,-3.435973,13,Konbu,298.80000400543213,6
+Dairy Products,Argentina,AR,-38.416096,-63.616673,59,Raclette Courdavault,110.0,28
+Produce,Finland,FI,61.92411,25.748152,28,Rössle Sauerkraut,136.79999542236328,12
+Dairy Products,Brazil,BR,-14.235004,-51.92528,11,Queso Cabrales,1007.9999923706055,5
+Produce,Canada,CA,56.130367,-106.34677,74,Longlife Tofu,240.0,4
+Beverages,Venezuela,VE,6.42375,-66.58973,1,Chai,1332.0,1
+Produce,Sweden,SE,60.128162,18.643501,28,Rössle Sauerkraut,2279.9999237060547,12
+Confections,Belgium,BE,50.503887,4.469936,68,Scottish Longbreads,250.0,8
+Condiments,Norway,NO,60.472023,8.468946,77,Original Frankfurter grüne Soße,234.0,12
+Meat/Poultry,Brazil,BR,-14.235004,-51.92528,53,Perth Pasties,1606.0000038146973,24
+Condiments,USA,US,37.09024,-95.71289,65,Louisiana Fiery Hot Pepper Sauce,904.3499641418457,2
+Meat/Poultry,Austria,AT,47.51623,14.550072,29,Thüringer Rostbratwurst,2871.480010986328,12
+Meat/Poultry,Spain,ES,40.46367,-3.74922,17,Alice Mutton,2340.0,7
+Confections,Denmark,DK,56.26392,9.501785,16,Pavlova,244.30001068115234,7
+Beverages,Germany,DE,51.16569,10.451526,2,Chang,4145.7999839782715,1
+Dairy Products,France,FR,46.22764,2.213749,71,Flotemysost,989.0000152587891,15
+Beverages,Switzerland,CH,46.818188,8.227512,70,Outback Lager,600.0,7
+Grains/Cereals,Venezuela,VE,6.42375,-66.58973,42,Singaporean Hokkien Fried Mee,420.0,20
+Meat/Poultry,UK,GB,55.37805,-3.435973,55,Pâté chinois,1344.0,25
+Meat/Poultry,Canada,CA,56.130367,-106.34677,17,Alice Mutton,3978.0000915527344,7
+Dairy Products,Brazil,BR,-14.235004,-51.92528,33,Geitost,200.0,15
+Beverages,Ireland,IE,53.41291,-8.24389,34,Sasquatch Ale,420.0,16
+Beverages,Ireland,IE,53.41291,-8.24389,39,Chartreuse verte,54.0,18
+Confections,Mexico,MX,23.6345,-102.55279,68,Scottish Longbreads,250.0,8
+Grains/Cereals,France,FR,46.22764,2.213749,42,Singaporean Hokkien Fried Mee,725.2000007629395,20
+Produce,USA,US,37.09024,-95.71289,51,Manjimup Dried Apples,3286.0,24
+Confections,Portugal,PT,39.39987,-8.224454,48,Chocolade,76.5,22
+Seafood,Germany,DE,51.16569,10.451526,40,Boston Crab Meat,5755.9998989105225,19
+Beverages,Austria,AT,47.51623,14.550072,24,Guaraná Fantástica,1248.299997329712,10
+Dairy Products,Germany,DE,51.16569,10.451526,32,Mascarpone Fabioli,2080.0,14
+Seafood,Ireland,IE,53.41291,-8.24389,41,Jack's New England Clam Chowder,1061.49995803833,19
+Produce,Norway,NO,60.472023,8.468946,7,Uncle Bob's Organic Dried Pears,360.0,3
+Condiments,USA,US,37.09024,-95.71289,44,Gula Malacca,2553.5000381469727,20
+Dairy Products,Switzerland,CH,46.818188,8.227512,60,Camembert Pierrot,1972.0000457763672,28
+Beverages,USA,US,37.09024,-95.71289,43,Ipoh Coffee,1655.9999885559082,20
+Beverages,Finland,FI,61.92411,25.748152,24,Guaraná Fantástica,90.0,10
+Grains/Cereals,France,FR,46.22764,2.213749,22,Gustaf's Knäckebröd,226.79999542236328,9
+Seafood,Denmark,DK,56.26392,9.501785,40,Boston Crab Meat,1213.9999771118164,19
+Seafood,USA,US,37.09024,-95.71289,18,Carnarvon Tigers,5187.5,7
+Meat/Poultry,France,FR,46.22764,2.213749,55,Pâté chinois,624.0000076293945,25
+Confections,Spain,ES,40.46367,-3.74922,19,Teatime Chocolate Biscuits,99.29999828338623,8
+Confections,Italy,IT,41.87194,12.56738,47,Zaanse koeken,47.5,22
+Dairy Products,Mexico,MX,23.6345,-102.55279,71,Flotemysost,34.400001525878906,15
+Dairy Products,Germany,DE,51.16569,10.451526,69,Gudbrandsdalsost,3671.999973297119,15
+Confections,Brazil,BR,-14.235004,-51.92528,47,Zaanse koeken,342.0,22
+Confections,Canada,CA,56.130367,-106.34677,21,Sir Rodney's Scones,420.0,8
+Grains/Cereals,Switzerland,CH,46.818188,8.227512,52,Filo Mix,420.0,24
+Dairy Products,Switzerland,CH,46.818188,8.227512,59,Raclette Courdavault,1320.0,28
+Confections,France,FR,46.22764,2.213749,16,Pavlova,1499.5000457763672,7
+Produce,Switzerland,CH,46.818188,8.227512,74,Longlife Tofu,328.0,4
+Grains/Cereals,UK,GB,55.37805,-3.435973,23,Tunnbröd,736.1999959945679,9
+Grains/Cereals,Denmark,DK,56.26392,9.501785,52,Filo Mix,105.0,24
+Seafood,Denmark,DK,56.26392,9.501785,41,Jack's New England Clam Chowder,289.4999885559082,19
+Confections,Austria,AT,47.51623,14.550072,21,Sir Rodney's Scones,1090.0,8
+Condiments,Finland,FI,61.92411,25.748152,65,Louisiana Fiery Hot Pepper Sauce,210.49999237060547,2
+Confections,Brazil,BR,-14.235004,-51.92528,16,Pavlova,1079.5000076293945,7
+Grains/Cereals,Mexico,MX,23.6345,-102.55279,52,Filo Mix,111.99999809265137,24
+Meat/Poultry,USA,US,37.09024,-95.71289,54,Tourtière,1673.2999753952026,25
+Seafood,UK,GB,55.37805,-3.435973,73,Röd Kaviar,45.0,17
+Condiments,Sweden,SE,60.128162,18.643501,3,Aniseed Syrup,300.0,1
+Dairy Products,Denmark,DK,56.26392,9.501785,72,Mozzarella di Giovanni,835.1999816894531,14
+Beverages,Argentina,AR,-38.416096,-63.616673,43,Ipoh Coffee,322.0,20
+Confections,Brazil,BR,-14.235004,-51.92528,62,Tarte au sucre,492.99999237060547,29
+Condiments,Sweden,SE,60.128162,18.643501,44,Gula Malacca,442.50000762939453,20
+Beverages,Portugal,PT,39.39987,-8.224454,1,Chai,215.9999942779541,1
+Produce,Germany,DE,51.16569,10.451526,7,Uncle Bob's Organic Dried Pears,5700.0,3
+Beverages,Austria,AT,47.51623,14.550072,39,Chartreuse verte,3150.0,18
+Confections,Germany,DE,51.16569,10.451526,25,NuNuCa Nuß-Nougat-Creme,296.79999923706055,11
+Beverages,UK,GB,55.37805,-3.435973,67,Laughing Lumberjack Lager,210.0,16
+Beverages,Spain,ES,40.46367,-3.74922,2,Chang,380.0,1
+Dairy Products,Sweden,SE,60.128162,18.643501,11,Queso Cabrales,940.7999572753906,5
+Beverages,Venezuela,VE,6.42375,-66.58973,70,Outback Lager,1839.0,7
+Meat/Poultry,Finland,FI,61.92411,25.748152,53,Perth Pasties,1965.000057220459,24
+Seafood,Venezuela,VE,6.42375,-66.58973,58,Escargots de Bourgogne,556.5,27
+Beverages,Italy,IT,41.87194,12.56738,70,Outback Lager,180.0,7
+Beverages,Austria,AT,47.51623,14.550072,70,Outback Lager,570.0,7
+Confections,Germany,DE,51.16569,10.451526,47,Zaanse koeken,1044.9999947547913,22
+Seafood,Switzerland,CH,46.818188,8.227512,13,Konbu,288.0,6
+Seafood,Austria,AT,47.51623,14.550072,46,Spegesild,432.0000171661377,21
+Dairy Products,Belgium,BE,50.503887,4.469936,31,Gorgonzola Telino,350.0,14
+Condiments,Italy,IT,41.87194,12.56738,66,Louisiana Hot Spiced Okra,408.0000114440918,2
+Beverages,France,FR,46.22764,2.213749,1,Chai,849.5999908447266,1
+Confections,Spain,ES,40.46367,-3.74922,62,Tarte au sucre,985.9999847412109,29
+Meat/Poultry,Brazil,BR,-14.235004,-51.92528,17,Alice Mutton,1053.0,7
+Grains/Cereals,UK,GB,55.37805,-3.435973,56,Gnocchi di nonna Alice,1785.999984741211,26
+Condiments,USA,US,37.09024,-95.71289,63,Vegie-spread,4300.59992980957,7
+Grains/Cereals,Sweden,SE,60.128162,18.643501,52,Filo Mix,175.0,24
+Produce,Germany,DE,51.16569,10.451526,28,Rössle Sauerkraut,1785.6000061035156,12
+Seafood,Switzerland,CH,46.818188,8.227512,36,Inlagd Sill,379.9999952316284,17
+Confections,France,FR,46.22764,2.213749,20,Sir Rodney's Marmalade,405.0,8
+Meat/Poultry,Mexico,MX,23.6345,-102.55279,53,Perth Pasties,1016.799976348877,24
+Dairy Products,Belgium,BE,50.503887,4.469936,33,Geitost,50.0,15
+Confections,Venezuela,VE,6.42375,-66.58973,50,Valkoinen suklaa,650.0,23
+Seafood,Canada,CA,56.130367,-106.34677,10,Ikura,1822.7999877929688,4
+Condiments,Austria,AT,47.51623,14.550072,65,Louisiana Fiery Hot Pepper Sauce,2609.799903869629,2
+Grains/Cereals,Spain,ES,40.46367,-3.74922,56,Gnocchi di nonna Alice,151.99999809265137,26
+Beverages,Germany,DE,51.16569,10.451526,38,Côte de Blaye,31620.0,18
+Beverages,France,FR,46.22764,2.213749,2,Chang,665.0,1
+Beverages,USA,US,37.09024,-95.71289,24,Guaraná Fantástica,436.5,10
+Beverages,Ireland,IE,53.41291,-8.24389,1,Chai,270.0,1
+Condiments,Portugal,PT,39.39987,-8.224454,44,Gula Malacca,1010.5000305175781,20
+Dairy Products,Sweden,SE,60.128162,18.643501,59,Raclette Courdavault,2585.0,28
+Meat/Poultry,USA,US,37.09024,-95.71289,55,Pâté chinois,4008.0000915527344,25
+Confections,Germany,DE,51.16569,10.451526,16,Pavlova,3141.0001373291016,7
+Condiments,UK,GB,55.37805,-3.435973,3,Aniseed Syrup,240.0,1
+Dairy Products,Venezuela,VE,6.42375,-66.58973,71,Flotemysost,645.0,15
+Produce,France,FR,46.22764,2.213749,51,Manjimup Dried Apples,3074.000030517578,24
+Grains/Cereals,Spain,ES,40.46367,-3.74922,64,Wimmers gute Semmelknödel,984.2000026702881,12
+Seafood,Switzerland,CH,46.818188,8.227512,46,Spegesild,360.0,21
+Beverages,Finland,FI,61.92411,25.748152,43,Ipoh Coffee,1195.9999809265137,20
+Produce,Poland,PL,51.919437,19.145136,51,Manjimup Dried Apples,106.0,24
+Seafood,Germany,DE,51.16569,10.451526,46,Spegesild,744.0,21
+Confections,Norway,NO,60.472023,8.468946,19,Teatime Chocolate Biscuits,18.399999618530273,8
+Dairy Products,France,FR,46.22764,2.213749,59,Raclette Courdavault,1188.0,28
+Condiments,USA,US,37.09024,-95.71289,6,Grandma's Boysenberry Spread,25.0,3
+Beverages,Portugal,PT,39.39987,-8.224454,39,Chartreuse verte,287.99999237060547,18
+Dairy Products,Belgium,BE,50.503887,4.469936,71,Flotemysost,1505.0000381469727,15
+Confections,USA,US,37.09024,-95.71289,16,Pavlova,4739.500093460083,7
+Condiments,Canada,CA,56.130367,-106.34677,6,Grandma's Boysenberry Spread,2050.0,3
+Produce,Ireland,IE,53.41291,-8.24389,14,Tofu,1627.5,6
+Beverages,USA,US,37.09024,-95.71289,75,Rhönbräu Klosterbier,2292.449998855591,12
+Confections,Argentina,AR,-38.416096,-63.616673,16,Pavlova,104.70000457763672,7
+Produce,USA,US,37.09024,-95.71289,14,Tofu,1850.7000217437744,6
+Beverages,Germany,DE,51.16569,10.451526,76,Lakkalikööri,4895.9999713897705,23
+Confections,Brazil,BR,-14.235004,-51.92528,68,Scottish Longbreads,775.0,8
+Dairy Products,Finland,FI,61.92411,25.748152,11,Queso Cabrales,315.0,5
+Beverages,Spain,ES,40.46367,-3.74922,35,Steeleye Stout,57.599998474121094,16
+Beverages,Mexico,MX,23.6345,-102.55279,2,Chang,380.0,1
+Confections,Belgium,BE,50.503887,4.469936,20,Sir Rodney's Marmalade,2592.0001220703125,8
+Meat/Poultry,Switzerland,CH,46.818188,8.227512,53,Perth Pasties,2295.9999465942383,24
+Grains/Cereals,Spain,ES,40.46367,-3.74922,52,Filo Mix,280.0,24
+Seafood,Mexico,MX,23.6345,-102.55279,18,Carnarvon Tigers,600.0,7
+Seafood,France,FR,46.22764,2.213749,37,Gravad lax,207.99999237060547,17
+Grains/Cereals,Sweden,SE,60.128162,18.643501,56,Gnocchi di nonna Alice,2280.0,26
+Grains/Cereals,Austria,AT,47.51623,14.550072,64,Wimmers gute Semmelknödel,7215.25001335144,12
+Beverages,Austria,AT,47.51623,14.550072,76,Lakkalikööri,900.0,23
+Condiments,Germany,DE,51.16569,10.451526,63,Vegie-spread,1141.4000396728516,7
+Beverages,Germany,DE,51.16569,10.451526,35,Steeleye Stout,2753.9999618530273,16
+Seafood,Austria,AT,47.51623,14.550072,30,Nord-Ost Matjeshering,1242.0000457763672,13
+Confections,Germany,DE,51.16569,10.451526,62,Tarte au sucre,9936.199989318848,29
+Beverages,Brazil,BR,-14.235004,-51.92528,75,Rhönbräu Klosterbier,905.1999988555908,12
+Seafood,USA,US,37.09024,-95.71289,37,Gravad lax,1560.0,17
+Produce,Sweden,SE,60.128162,18.643501,7,Uncle Bob's Organic Dried Pears,1800.0,3
+Dairy Products,Austria,AT,47.51623,14.550072,32,Mascarpone Fabioli,793.6000022888184,14
+Seafood,France,FR,46.22764,2.213749,40,Boston Crab Meat,827.9999828338623,19
+Grains/Cereals,Ireland,IE,53.41291,-8.24389,42,Singaporean Hokkien Fried Mee,302.3999996185303,20
+Seafood,USA,US,37.09024,-95.71289,58,Escargots de Bourgogne,1073.2500114440918,27
+Beverages,Mexico,MX,23.6345,-102.55279,39,Chartreuse verte,360.0,18
+Dairy Products,Italy,IT,41.87194,12.56738,11,Queso Cabrales,100.79999542236328,5
+Dairy Products,France,FR,46.22764,2.213749,33,Geitost,67.5,15
+Seafood,Sweden,SE,60.128162,18.643501,40,Boston Crab Meat,1379.9999713897705,19
+Dairy Products,Mexico,MX,23.6345,-102.55279,59,Raclette Courdavault,1265.0,28
+Condiments,Spain,ES,40.46367,-3.74922,65,Louisiana Fiery Hot Pepper Sauce,1030.0499572753906,2
+Seafood,Mexico,MX,23.6345,-102.55279,37,Gravad lax,20.799999237060547,17
+Beverages,Canada,CA,56.130367,-106.34677,43,Ipoh Coffee,414.0,20
+Dairy Products,Germany,DE,51.16569,10.451526,31,Gorgonzola Telino,2805.0,14
+Seafood,Venezuela,VE,6.42375,-66.58973,36,Inlagd Sill,950.0,17
+Condiments,Mexico,MX,23.6345,-102.55279,66,Louisiana Hot Spiced Okra,68.0,2
+Condiments,Ireland,IE,53.41291,-8.24389,63,Vegie-spread,1228.4999465942383,7
+Beverages,UK,GB,55.37805,-3.435973,24,Guaraná Fantástica,377.9999899864197,10
+Meat/Poultry,Sweden,SE,60.128162,18.643501,53,Perth Pasties,393.59999084472656,24
+Grains/Cereals,Canada,CA,56.130367,-106.34677,42,Singaporean Hokkien Fried Mee,335.9999942779541,20
+Seafood,Brazil,BR,-14.235004,-51.92528,58,Escargots de Bourgogne,596.25,27
+Confections,Poland,PL,51.919437,19.145136,62,Tarte au sucre,591.5999908447266,29
+Confections,UK,GB,55.37805,-3.435973,47,Zaanse koeken,237.5,22
+Confections,USA,US,37.09024,-95.71289,49,Maxilaku,1260.0,23
+Meat/Poultry,Germany,DE,51.16569,10.451526,53,Perth Pasties,3402.3999977111816,24
+Dairy Products,Denmark,DK,56.26392,9.501785,71,Flotemysost,516.0000228881836,15
+Confections,Denmark,DK,56.26392,9.501785,21,Sir Rodney's Scones,300.0,8
+Meat/Poultry,Italy,IT,41.87194,12.56738,53,Perth Pasties,327.99999237060547,24
+Beverages,Sweden,SE,60.128162,18.643501,76,Lakkalikööri,1537.199993133545,23
+Produce,USA,US,37.09024,-95.71289,7,Uncle Bob's Organic Dried Pears,3780.0,3
+Confections,Austria,AT,47.51623,14.550072,16,Pavlova,2510.3500118255615,7
+Confections,France,FR,46.22764,2.213749,62,Tarte au sucre,7489.200119018555,29
+Beverages,USA,US,37.09024,-95.71289,76,Lakkalikööri,3060.0,23
+Dairy Products,Canada,CA,56.130367,-106.34677,11,Queso Cabrales,420.0,5
+Seafood,Norway,NO,60.472023,8.468946,30,Nord-Ost Matjeshering,388.34999084472656,13
+Meat/Poultry,Venezuela,VE,6.42375,-66.58973,29,Thüringer Rostbratwurst,990.0,12
+Seafood,Germany,DE,51.16569,10.451526,30,Nord-Ost Matjeshering,2754.5999450683594,13
+Beverages,Denmark,DK,56.26392,9.501785,38,Côte de Blaye,10540.00015258789,18
+Confections,France,FR,46.22764,2.213749,21,Sir Rodney's Scones,460.0,8
+Condiments,Canada,CA,56.130367,-106.34677,8,Northwoods Cranberry Sauce,640.0,3
+Condiments,Belgium,BE,50.503887,4.469936,77,Original Frankfurter grüne Soße,520.0,12
+Seafood,France,FR,46.22764,2.213749,18,Carnarvon Tigers,9000.0,7
+Beverages,Spain,ES,40.46367,-3.74922,24,Guaraná Fantástica,75.59999942779541,10
+Condiments,Brazil,BR,-14.235004,-51.92528,6,Grandma's Boysenberry Spread,1900.0,3
+Grains/Cereals,Portugal,PT,39.39987,-8.224454,42,Singaporean Hokkien Fried Mee,196.0,20
+Seafood,Germany,DE,51.16569,10.451526,73,Röd Kaviar,990.0,17
+Grains/Cereals,Belgium,BE,50.503887,4.469936,42,Singaporean Hokkien Fried Mee,1007.9999904632568,20
+Confections,Belgium,BE,50.503887,4.469936,21,Sir Rodney's Scones,760.0,8
+Seafood,Brazil,BR,-14.235004,-51.92528,46,Spegesild,1080.0000076293945,21
+Dairy Products,Venezuela,VE,6.42375,-66.58973,31,Gorgonzola Telino,562.5,14
+Confections,Germany,DE,51.16569,10.451526,20,Sir Rodney's Marmalade,4536.0,8
+Dairy Products,Norway,NO,60.472023,8.468946,59,Raclette Courdavault,528.0,28
+Beverages,Germany,DE,51.16569,10.451526,39,Chartreuse verte,2923.199977874756,18
+Meat/Poultry,Portugal,PT,39.39987,-8.224454,54,Tourtière,118.00000190734863,25
+Beverages,Ireland,IE,53.41291,-8.24389,75,Rhönbräu Klosterbier,155.0,12
+Grains/Cereals,Portugal,PT,39.39987,-8.224454,56,Gnocchi di nonna Alice,2219.199977874756,26
+Produce,Venezuela,VE,6.42375,-66.58973,51,Manjimup Dried Apples,2120.0000381469727,24
+Grains/Cereals,Italy,IT,41.87194,12.56738,56,Gnocchi di nonna Alice,380.0,26
+Confections,Germany,DE,51.16569,10.451526,21,Sir Rodney's Scones,2720.0,8
+Grains/Cereals,Canada,CA,56.130367,-106.34677,22,Gustaf's Knäckebröd,840.0,9
+Produce,Mexico,MX,23.6345,-102.55279,14,Tofu,292.9500045776367,6
+Beverages,Finland,FI,61.92411,25.748152,35,Steeleye Stout,108.0,16
+Confections,Venezuela,VE,6.42375,-66.58973,21,Sir Rodney's Scones,620.0,8
+Beverages,Germany,DE,51.16569,10.451526,24,Guaraná Fantástica,400.49999809265137,10
+Seafood,Brazil,BR,-14.235004,-51.92528,73,Röd Kaviar,240.0,17
+Condiments,Finland,FI,61.92411,25.748152,61,Sirop d'érable,712.4999809265137,29
+Seafood,USA,US,37.09024,-95.71289,30,Nord-Ost Matjeshering,926.3700294494629,13
+Confections,UK,GB,55.37805,-3.435973,49,Maxilaku,680.0,23
+Beverages,Poland,PL,51.919437,19.145136,1,Chai,108.0,1
+Condiments,Poland,PL,51.919437,19.145136,61,Sirop d'érable,627.0,29
+Dairy Products,Finland,FI,61.92411,25.748152,60,Camembert Pierrot,816.0,28
+Dairy Products,Denmark,DK,56.26392,9.501785,33,Geitost,16.0,15
+Grains/Cereals,France,FR,46.22764,2.213749,52,Filo Mix,380.7999973297119,24
+Confections,France,FR,46.22764,2.213749,50,Valkoinen suklaa,195.0,23
+Seafood,France,FR,46.22764,2.213749,46,Spegesild,588.0000133514404,21
+Grains/Cereals,Germany,DE,51.16569,10.451526,57,Ravioli Angelo,1092.0000247955322,26
+Confections,Poland,PL,51.919437,19.145136,68,Scottish Longbreads,187.5,8
+Beverages,Ireland,IE,53.41291,-8.24389,70,Outback Lager,360.0,7
+Condiments,Austria,AT,47.51623,14.550072,5,Chef Anton's Gumbo Mix,1649.0,2
+Condiments,Ireland,IE,53.41291,-8.24389,65,Louisiana Fiery Hot Pepper Sauce,1262.9999542236328,2
+Dairy Products,Mexico,MX,23.6345,-102.55279,32,Mascarpone Fabioli,320.0,14
+Meat/Poultry,France,FR,46.22764,2.213749,17,Alice Mutton,2379.0000228881836,7
+Confections,Brazil,BR,-14.235004,-51.92528,20,Sir Rodney's Marmalade,2073.60009765625,8
+Dairy Products,Austria,AT,47.51623,14.550072,72,Mozzarella di Giovanni,667.1999816894531,14
+Confections,Sweden,SE,60.128162,18.643501,47,Zaanse koeken,1149.5,22
+Seafood,Sweden,SE,60.128162,18.643501,10,Ikura,682.0,4
+Seafood,Brazil,BR,-14.235004,-51.92528,40,Boston Crab Meat,640.199987411499,19
+Produce,Germany,DE,51.16569,10.451526,14,Tofu,1869.300006866455,6
+Seafood,Denmark,DK,56.26392,9.501785,36,Inlagd Sill,570.0,17
+Dairy Products,France,FR,46.22764,2.213749,31,Gorgonzola Telino,1100.0,14
+Beverages,Mexico,MX,23.6345,-102.55279,1,Chai,352.7999954223633,1
+Condiments,Germany,DE,51.16569,10.451526,4,Chef Anton's Cajun Seasoning,1100.0,2
+Confections,Finland,FI,61.92411,25.748152,16,Pavlova,296.6500129699707,7
+Meat/Poultry,Venezuela,VE,6.42375,-66.58973,55,Pâté chinois,1766.4000701904297,25
+Beverages,Switzerland,CH,46.818188,8.227512,76,Lakkalikööri,36.0,23
+Confections,Belgium,BE,50.503887,4.469936,26,Gumbär Gummibärchen,934.3799858093262,11
+Dairy Products,Norway,NO,60.472023,8.468946,71,Flotemysost,258.0000114440918,15
+Meat/Poultry,Denmark,DK,56.26392,9.501785,29,Thüringer Rostbratwurst,1782.0,12
+Beverages,Sweden,SE,60.128162,18.643501,43,Ipoh Coffee,2760.0,20
+Meat/Poultry,Switzerland,CH,46.818188,8.227512,29,Thüringer Rostbratwurst,4456.440032958984,12
+Seafood,Venezuela,VE,6.42375,-66.58973,30,Nord-Ost Matjeshering,1459.8600006103516,13
+Dairy Products,Switzerland,CH,46.818188,8.227512,69,Gudbrandsdalsost,3311.999984741211,15
+Seafood,USA,US,37.09024,-95.71289,41,Jack's New England Clam Chowder,2016.6499214172363,19
+Condiments,Mexico,MX,23.6345,-102.55279,63,Vegie-spread,175.49999237060547,7
+Confections,Brazil,BR,-14.235004,-51.92528,49,Maxilaku,2104.0,23
+Beverages,Sweden,SE,60.128162,18.643501,39,Chartreuse verte,1274.3999977111816,18
+Seafood,USA,US,37.09024,-95.71289,45,Rogede sild,1767.0,21
+Dairy Products,Ireland,IE,53.41291,-8.24389,31,Gorgonzola Telino,1000.0,14
+Seafood,Canada,CA,56.130367,-106.34677,13,Konbu,42.0,6
+Seafood,Finland,FI,61.92411,25.748152,36,Inlagd Sill,455.9999942779541,17
+Produce,UK,GB,55.37805,-3.435973,51,Manjimup Dried Apples,2480.400032043457,24
+Produce,Germany,DE,51.16569,10.451526,74,Longlife Tofu,120.0,4
+Dairy Products,USA,US,37.09024,-95.71289,72,Mozzarella di Giovanni,3763.599910736084,14
+Beverages,Brazil,BR,-14.235004,-51.92528,76,Lakkalikööri,1440.0,23
+Beverages,Norway,NO,60.472023,8.468946,38,Côte de Blaye,2108.0,18
+Produce,France,FR,46.22764,2.213749,74,Longlife Tofu,150.0,4
+Dairy Products,Mexico,MX,23.6345,-102.55279,69,Gudbrandsdalsost,28.799999237060547,15
+Dairy Products,Ireland,IE,53.41291,-8.24389,59,Raclette Courdavault,5830.0,28
+Produce,Sweden,SE,60.128162,18.643501,14,Tofu,372.0,6
+Condiments,Brazil,BR,-14.235004,-51.92528,4,Chef Anton's Cajun Seasoning,1232.0,2
+Seafood,France,FR,46.22764,2.213749,36,Inlagd Sill,1478.1999950408936,17
+Beverages,France,FR,46.22764,2.213749,38,Côte de Blaye,3425.500030517578,18
+Condiments,Austria,AT,47.51623,14.550072,63,Vegie-spread,4213.099967956543,7
+Beverages,Venezuela,VE,6.42375,-66.58973,75,Rhönbräu Klosterbier,843.1999931335449,12
+Seafood,Argentina,AR,-38.416096,-63.616673,46,Spegesild,36.0,21
+Confections,Italy,IT,41.87194,12.56738,25,NuNuCa Nuß-Nougat-Creme,134.39999771118164,11
+Beverages,Mexico,MX,23.6345,-102.55279,70,Outback Lager,240.0,7
+Meat/Poultry,Spain,ES,40.46367,-3.74922,55,Pâté chinois,336.0,25
+Produce,Argentina,AR,-38.416096,-63.616673,14,Tofu,223.20000457763672,6
+Dairy Products,Sweden,SE,60.128162,18.643501,31,Gorgonzola Telino,25.0,14
+Condiments,France,FR,46.22764,2.213749,8,Northwoods Cranberry Sauce,400.0,3
+Grains/Cereals,Mexico,MX,23.6345,-102.55279,42,Singaporean Hokkien Fried Mee,350.0,20
+Dairy Products,Germany,DE,51.16569,10.451526,72,Mozzarella di Giovanni,5591.39986038208,14
+Seafood,USA,US,37.09024,-95.71289,46,Spegesild,1368.0000114440918,21
+Confections,Switzerland,CH,46.818188,8.227512,16,Pavlova,486.49998664855957,7
+Condiments,Mexico,MX,23.6345,-102.55279,44,Gula Malacca,991.9500389099121,20
+Beverages,Switzerland,CH,46.818188,8.227512,1,Chai,215.9999942779541,1
+Beverages,Italy,IT,41.87194,12.56738,67,Laughing Lumberjack Lager,560.0,16
+Beverages,Denmark,DK,56.26392,9.501785,24,Guaraná Fantástica,202.4999976158142,10
+Seafood,Spain,ES,40.46367,-3.74922,45,Rogede sild,190.0,21
+Condiments,Denmark,DK,56.26392,9.501785,65,Louisiana Fiery Hot Pepper Sauce,251.9999885559082,2
+Beverages,Canada,CA,56.130367,-106.34677,70,Outback Lager,435.0,7
+Confections,Belgium,BE,50.503887,4.469936,27,Schoggi Schokolade,2853.500099182129,11
+Condiments,Belgium,BE,50.503887,4.469936,8,Northwoods Cranberry Sauce,800.0,3
+Seafood,Ireland,IE,53.41291,-8.24389,40,Boston Crab Meat,735.9999847412109,19
+Dairy Products,Italy,IT,41.87194,12.56738,33,Geitost,50.0,15
+Grains/Cereals,Brazil,BR,-14.235004,-51.92528,22,Gustaf's Knäckebröd,315.0,9
+Beverages,Brazil,BR,-14.235004,-51.92528,70,Outback Lager,981.0,7
+Dairy Products,UK,GB,55.37805,-3.435973,71,Flotemysost,1947.9000129699707,15
+Condiments,Ireland,IE,53.41291,-8.24389,6,Grandma's Boysenberry Spread,600.0,3
+Meat/Poultry,Spain,ES,40.46367,-3.74922,54,Tourtière,29.500000476837158,25
+Seafood,Norway,NO,60.472023,8.468946,18,Carnarvon Tigers,500.0,7
+Dairy Products,Belgium,BE,50.503887,4.469936,72,Mozzarella di Giovanni,521.9999885559082,14
+Grains/Cereals,Italy,IT,41.87194,12.56738,52,Filo Mix,126.0,24
+Condiments,Canada,CA,56.130367,-106.34677,44,Gula Malacca,970.1000137329102,20
+Beverages,Spain,ES,40.46367,-3.74922,70,Outback Lager,60.0,7
+Dairy Products,Germany,DE,51.16569,10.451526,71,Flotemysost,3762.500057220459,15
+Produce,Italy,IT,41.87194,12.56738,74,Longlife Tofu,50.0,4
+Seafood,UK,GB,55.37805,-3.435973,37,Gravad lax,468.0,17
+Produce,Austria,AT,47.51623,14.550072,14,Tofu,906.7500133514404,6
+Seafood,Italy,IT,41.87194,12.56738,40,Boston Crab Meat,73.5999984741211,19
+Condiments,Canada,CA,56.130367,-106.34677,61,Sirop d'érable,142.5,29
+Confections,Sweden,SE,60.128162,18.643501,19,Teatime Chocolate Biscuits,229.99999523162842,8
+Condiments,Brazil,BR,-14.235004,-51.92528,77,Original Frankfurter grüne Soße,1866.7999877929688,12
+Grains/Cereals,France,FR,46.22764,2.213749,57,Ravioli Angelo,799.5000057220459,26
+Beverages,Poland,PL,51.919437,19.145136,35,Steeleye Stout,54.0,16
+Dairy Products,USA,US,37.09024,-95.71289,69,Gudbrandsdalsost,3600.0,15
+Seafood,Austria,AT,47.51623,14.550072,13,Konbu,468.0,6
+Condiments,France,FR,46.22764,2.213749,15,Genen Shouyu,186.0,6
+Seafood,Sweden,SE,60.128162,18.643501,46,Spegesild,300.0,21
+Beverages,Portugal,PT,39.39987,-8.224454,76,Lakkalikööri,180.0,23
+Meat/Poultry,Brazil,BR,-14.235004,-51.92528,29,Thüringer Rostbratwurst,2475.3200073242188,12
+Beverages,Norway,NO,60.472023,8.468946,24,Guaraná Fantástica,89.99999856948853,10
+Produce,Denmark,DK,56.26392,9.501785,28,Rössle Sauerkraut,2735.9999084472656,12
+Meat/Poultry,UK,GB,55.37805,-3.435973,29,Thüringer Rostbratwurst,2079.0,12
+Grains/Cereals,USA,US,37.09024,-95.71289,57,Ravioli Angelo,292.5,26
+Beverages,Canada,CA,56.130367,-106.34677,24,Guaraná Fantástica,270.0,10
+Produce,Spain,ES,40.46367,-3.74922,51,Manjimup Dried Apples,2120.0,24
+Seafood,Mexico,MX,23.6345,-102.55279,40,Boston Crab Meat,492.6999921798706,19
+Beverages,USA,US,37.09024,-95.71289,67,Laughing Lumberjack Lager,140.0,16
+Seafood,Brazil,BR,-14.235004,-51.92528,18,Carnarvon Tigers,3312.5,7
+Dairy Products,Spain,ES,40.46367,-3.74922,60,Camembert Pierrot,646.0,28
+Dairy Products,Venezuela,VE,6.42375,-66.58973,11,Queso Cabrales,705.5999870300293,5
+Seafood,Sweden,SE,60.128162,18.643501,30,Nord-Ost Matjeshering,2018.9999961853027,13
+Beverages,Spain,ES,40.46367,-3.74922,67,Laughing Lumberjack Lager,210.0,16
+Beverages,Canada,CA,56.130367,-106.34677,75,Rhönbräu Klosterbier,77.5,12
+Dairy Products,Venezuela,VE,6.42375,-66.58973,32,Mascarpone Fabioli,1728.0,14
+Condiments,France,FR,46.22764,2.213749,63,Vegie-spread,1317.0000457763672,7
+Meat/Poultry,USA,US,37.09024,-95.71289,29,Thüringer Rostbratwurst,19705.160095214844,12
+Dairy Products,Sweden,SE,60.128162,18.643501,72,Mozzarella di Giovanni,835.1999816894531,14
+Condiments,Austria,AT,47.51623,14.550072,66,Louisiana Hot Spiced Okra,816.0000228881836,2
+Dairy Products,Argentina,AR,-38.416096,-63.616673,33,Geitost,25.0,15
+Condiments,UK,GB,55.37805,-3.435973,61,Sirop d'érable,855.0,29
+Produce,Sweden,SE,60.128162,18.643501,51,Manjimup Dried Apples,4664.0,24
+Seafood,UK,GB,55.37805,-3.435973,45,Rogede sild,113.99999856948853,21
+Beverages,France,FR,46.22764,2.213749,43,Ipoh Coffee,2851.999969482422,20
+Dairy Products,Finland,FI,61.92411,25.748152,59,Raclette Courdavault,1925.0,28
+Meat/Poultry,Italy,IT,41.87194,12.56738,54,Tourtière,59.000000953674316,25
+Beverages,Germany,DE,51.16569,10.451526,34,Sasquatch Ale,363.99999618530273,16
+Produce,Brazil,BR,-14.235004,-51.92528,51,Manjimup Dried Apples,3052.8000564575195,24
+Confections,Brazil,BR,-14.235004,-51.92528,26,Gumbär Gummibärchen,2305.979965209961,11
+Confections,USA,US,37.09024,-95.71289,19,Teatime Chocolate Biscuits,1278.1999769210815,8
+Confections,Brazil,BR,-14.235004,-51.92528,48,Chocolade,306.0,22
+Meat/Poultry,USA,US,37.09024,-95.71289,17,Alice Mutton,13509.60005569458,7
+Beverages,Argentina,AR,-38.416096,-63.616673,76,Lakkalikööri,180.0,23
+Seafood,Italy,IT,41.87194,12.56738,46,Spegesild,192.00000762939453,21
+Confections,Canada,CA,56.130367,-106.34677,62,Tarte au sucre,6032.400009155273,29
+Dairy Products,Italy,IT,41.87194,12.56738,72,Mozzarella di Giovanni,2435.9999465942383,14
+Dairy Products,Brazil,BR,-14.235004,-51.92528,12,Queso Manchego La Pastora,152.0,5
+Condiments,Argentina,AR,-38.416096,-63.616673,61,Sirop d'érable,285.0,29
+Dairy Products,Switzerland,CH,46.818188,8.227512,33,Geitost,37.5,15
+Seafood,Italy,IT,41.87194,12.56738,18,Carnarvon Tigers,500.0,7
+Beverages,Poland,PL,51.919437,19.145136,2,Chang,380.0,1
+Confections,Austria,AT,47.51623,14.550072,20,Sir Rodney's Marmalade,3159.0,8
+Dairy Products,Ireland,IE,53.41291,-8.24389,11,Queso Cabrales,840.0,5
+Confections,Austria,AT,47.51623,14.550072,26,Gumbär Gummibärchen,1561.4999771118164,11
+Seafood,Germany,DE,51.16569,10.451526,18,Carnarvon Tigers,4625.0,7
+Confections,Mexico,MX,23.6345,-102.55279,21,Sir Rodney's Scones,80.0,8
+Condiments,USA,US,37.09024,-95.71289,3,Aniseed Syrup,40.0,1
+Condiments,UK,GB,55.37805,-3.435973,8,Northwoods Cranberry Sauce,800.0,3
+Dairy Products,Austria,AT,47.51623,14.550072,71,Flotemysost,1096.5,15
+Condiments,Austria,AT,47.51623,14.550072,3,Aniseed Syrup,450.0,1
+Grains/Cereals,Belgium,BE,50.503887,4.469936,52,Filo Mix,14.0,24
+Condiments,USA,US,37.09024,-95.71289,15,Genen Shouyu,930.0,6
+Seafood,Ireland,IE,53.41291,-8.24389,30,Nord-Ost Matjeshering,1304.639991760254,13
+Confections,Spain,ES,40.46367,-3.74922,50,Valkoinen suklaa,146.25,23
+Seafood,USA,US,37.09024,-95.71289,73,Röd Kaviar,1230.0,17
+Dairy Products,Finland,FI,61.92411,25.748152,12,Queso Manchego La Pastora,516.7999954223633,5
+Produce,Argentina,AR,-38.416096,-63.616673,51,Manjimup Dried Apples,371.0,24
+Seafood,Switzerland,CH,46.818188,8.227512,10,Ikura,496.0,4
+Produce,Denmark,DK,56.26392,9.501785,51,Manjimup Dried Apples,1590.0,24
+Beverages,Brazil,BR,-14.235004,-51.92528,34,Sasquatch Ale,335.9999942779541,16
+Seafood,Belgium,BE,50.503887,4.469936,45,Rogede sild,142.5,21
+Confections,France,FR,46.22764,2.213749,19,Teatime Chocolate Biscuits,91.99999809265137,8
+Dairy Products,Ireland,IE,53.41291,-8.24389,71,Flotemysost,1986.600040435791,15
+Grains/Cereals,Austria,AT,47.51623,14.550072,22,Gustaf's Knäckebröd,1827.0,9
+Beverages,UK,GB,55.37805,-3.435973,1,Chai,1314.0,1
+Dairy Products,Portugal,PT,39.39987,-8.224454,60,Camembert Pierrot,612.0000152587891,28
+Beverages,UK,GB,55.37805,-3.435973,34,Sasquatch Ale,156.7999973297119,16
+Seafood,Denmark,DK,56.26392,9.501785,30,Nord-Ost Matjeshering,647.2499847412109,13
+Beverages,Brazil,BR,-14.235004,-51.92528,39,Chartreuse verte,2188.799964904785,18
+Dairy Products,Brazil,BR,-14.235004,-51.92528,69,Gudbrandsdalsost,1080.0,15
+Dairy Products,Mexico,MX,23.6345,-102.55279,72,Mozzarella di Giovanni,347.99999237060547,14
+Condiments,Belgium,BE,50.503887,4.469936,66,Louisiana Hot Spiced Okra,816.0000228881836,2
+Produce,France,FR,46.22764,2.213749,14,Tofu,465.0,6
+Confections,Venezuela,VE,6.42375,-66.58973,19,Teatime Chocolate Biscuits,333.79999923706055,8
+Meat/Poultry,Germany,DE,51.16569,10.451526,29,Thüringer Rostbratwurst,11883.840087890625,12
+Dairy Products,Austria,AT,47.51623,14.550072,12,Queso Manchego La Pastora,3268.0,5
+Confections,UK,GB,55.37805,-3.435973,21,Sir Rodney's Scones,262.0,8
+Meat/Poultry,Germany,DE,51.16569,10.451526,9,Mishi Kobe Niku,1552.0,4
+Produce,Canada,CA,56.130367,-106.34677,51,Manjimup Dried Apples,1272.0,24
+Condiments,Finland,FI,61.92411,25.748152,4,Chef Anton's Cajun Seasoning,550.0,2
+Seafood,Germany,DE,51.16569,10.451526,13,Konbu,1068.000005722046,6
+Condiments,Ireland,IE,53.41291,-8.24389,77,Original Frankfurter grüne Soße,455.0,12
+Condiments,Venezuela,VE,6.42375,-66.58973,15,Genen Shouyu,247.99999237060547,6
+Confections,Germany,DE,51.16569,10.451526,68,Scottish Longbreads,977.5,8
+Beverages,Spain,ES,40.46367,-3.74922,1,Chai,180.0,1
+Dairy Products,USA,US,37.09024,-95.71289,59,Raclette Courdavault,14080.0,28
+Condiments,Spain,ES,40.46367,-3.74922,61,Sirop d'érable,285.0,29
+Confections,UK,GB,55.37805,-3.435973,50,Valkoinen suklaa,585.0,23
+Confections,USA,US,37.09024,-95.71289,68,Scottish Longbreads,3060.0,8
+Confections,Sweden,SE,60.128162,18.643501,20,Sir Rodney's Marmalade,1814.4000854492188,8
+Condiments,Germany,DE,51.16569,10.451526,15,Genen Shouyu,449.49999809265137,6
+Dairy Products,Mexico,MX,23.6345,-102.55279,60,Camembert Pierrot,476.0,28
+Condiments,Brazil,BR,-14.235004,-51.92528,61,Sirop d'érable,399.0,29
+Confections,Switzerland,CH,46.818188,8.227512,50,Valkoinen suklaa,325.0,23
+Confections,Mexico,MX,23.6345,-102.55279,19,Teatime Chocolate Biscuits,128.7999973297119,8
+Grains/Cereals,Brazil,BR,-14.235004,-51.92528,52,Filo Mix,784.0,24
+Grains/Cereals,Brazil,BR,-14.235004,-51.92528,42,Singaporean Hokkien Fried Mee,560.0,20
+Beverages,USA,US,37.09024,-95.71289,34,Sasquatch Ale,1609.9999933242798,16
+Confections,Mexico,MX,23.6345,-102.55279,26,Gumbär Gummibärchen,936.8999862670898,11
+Confections,France,FR,46.22764,2.213749,26,Gumbär Gummibärchen,156.14999771118164,11
+Produce,Mexico,MX,23.6345,-102.55279,28,Rössle Sauerkraut,1164.800048828125,12
+Condiments,Finland,FI,61.92411,25.748152,8,Northwoods Cranberry Sauce,400.0,3
+Condiments,USA,US,37.09024,-95.71289,66,Louisiana Hot Spiced Okra,17.0,2
+Condiments,Germany,DE,51.16569,10.451526,44,Gula Malacca,2076.000068664551,20
+Seafood,Ireland,IE,53.41291,-8.24389,10,Ikura,558.0,4
+Condiments,Spain,ES,40.46367,-3.74922,4,Chef Anton's Cajun Seasoning,422.40000915527344,2
+Seafood,Switzerland,CH,46.818188,8.227512,73,Röd Kaviar,360.0,17
+Condiments,Germany,DE,51.16569,10.451526,61,Sirop d'érable,906.2999877929688,29
+Confections,Canada,CA,56.130367,-106.34677,16,Pavlova,745.900016784668,7
+Beverages,Austria,AT,47.51623,14.550072,35,Steeleye Stout,1223.999984741211,16
+Beverages,Belgium,BE,50.503887,4.469936,76,Lakkalikööri,712.7999839782715,23
+Produce,Italy,IT,41.87194,12.56738,7,Uncle Bob's Organic Dried Pears,1200.0,3
+Beverages,Canada,CA,56.130367,-106.34677,38,Côte de Blaye,10329.200149536133,18
+Meat/Poultry,Italy,IT,41.87194,12.56738,17,Alice Mutton,780.0,7
+Dairy Products,UK,GB,55.37805,-3.435973,33,Geitost,136.5,15
+Meat/Poultry,Switzerland,CH,46.818188,8.227512,55,Pâté chinois,403.2000160217285,25
+Condiments,Venezuela,VE,6.42375,-66.58973,65,Louisiana Fiery Hot Pepper Sauce,442.0499839782715,2
+Grains/Cereals,Finland,FI,61.92411,25.748152,57,Ravioli Angelo,312.00000762939453,26
+Produce,Italy,IT,41.87194,12.56738,28,Rössle Sauerkraut,436.8000183105469,12
+Produce,Venezuela,VE,6.42375,-66.58973,28,Rössle Sauerkraut,2735.9999084472656,12
+Beverages,Poland,PL,51.919437,19.145136,75,Rhönbräu Klosterbier,232.5,12
+Confections,UK,GB,55.37805,-3.435973,26,Gumbär Gummibärchen,374.75999450683594,11
+Confections,Brazil,BR,-14.235004,-51.92528,25,NuNuCa Nuß-Nougat-Creme,461.99999809265137,11
+Meat/Poultry,Portugal,PT,39.39987,-8.224454,29,Thüringer Rostbratwurst,1237.9000091552734,12
+Confections,Italy,IT,41.87194,12.56738,49,Maxilaku,1040.0,23
+Dairy Products,France,FR,46.22764,2.213749,72,Mozzarella di Giovanni,2593.399932861328,14
+Condiments,USA,US,37.09024,-95.71289,8,Northwoods Cranberry Sauce,2320.0,3
+Confections,France,FR,46.22764,2.213749,25,NuNuCa Nuß-Nougat-Creme,979.9999904632568,11
+Beverages,USA,US,37.09024,-95.71289,35,Steeleye Stout,2771.9999618530273,16
+Meat/Poultry,Brazil,BR,-14.235004,-51.92528,55,Pâté chinois,912.0,25
+Condiments,Denmark,DK,56.26392,9.501785,61,Sirop d'érable,1140.0,29
+Beverages,Ireland,IE,53.41291,-8.24389,2,Chang,714.3999910354614,1
+Seafood,Switzerland,CH,46.818188,8.227512,37,Gravad lax,208.0,17
+Seafood,Mexico,MX,23.6345,-102.55279,13,Konbu,108.00000190734863,6
+Dairy Products,Germany,DE,51.16569,10.451526,59,Raclette Courdavault,17039.0,28
+Meat/Poultry,Sweden,SE,60.128162,18.643501,17,Alice Mutton,312.00000762939453,7
+Beverages,Mexico,MX,23.6345,-102.55279,75,Rhönbräu Klosterbier,331.6999969482422,12
+Dairy Products,USA,US,37.09024,-95.71289,33,Geitost,500.5,15
+Dairy Products,Austria,AT,47.51623,14.550072,31,Gorgonzola Telino,2075.0,14
+Confections,Austria,AT,47.51623,14.550072,27,Schoggi Schokolade,1317.0000457763672,11
+Condiments,USA,US,37.09024,-95.71289,5,Chef Anton's Gumbo Mix,1783.9000282287598,2
+Grains/Cereals,Germany,DE,51.16569,10.451526,64,Wimmers gute Semmelknödel,6350.750032424927,12
+Condiments,Switzerland,CH,46.818188,8.227512,63,Vegie-spread,1843.800064086914,7
+Dairy Products,Italy,IT,41.87194,12.56738,31,Gorgonzola Telino,200.0,14
+Condiments,Germany,DE,51.16569,10.451526,6,Grandma's Boysenberry Spread,1020.0,3
+Confections,Finland,FI,61.92411,25.748152,49,Maxilaku,200.0,23
+Produce,Belgium,BE,50.503887,4.469936,28,Rössle Sauerkraut,3023.2000579833984,12
+Confections,Brazil,BR,-14.235004,-51.92528,19,Teatime Chocolate Biscuits,1417.399998664856,8
+Dairy Products,Italy,IT,41.87194,12.56738,32,Mascarpone Fabioli,640.0,14
+Beverages,Germany,DE,51.16569,10.451526,1,Chai,2843.9999771118164,1
+Condiments,Denmark,DK,56.26392,9.501785,3,Aniseed Syrup,140.0,1
+Seafood,Belgium,BE,50.503887,4.469936,40,Boston Crab Meat,275.9999942779541,19
+Seafood,Norway,NO,60.472023,8.468946,41,Jack's New England Clam Chowder,48.24999809265137,19
+Beverages,Norway,NO,60.472023,8.468946,43,Ipoh Coffee,414.0,20
+Beverages,USA,US,37.09024,-95.71289,39,Chartreuse verte,647.9999885559082,18
+Beverages,Venezuela,VE,6.42375,-66.58973,35,Steeleye Stout,1314.0,16
+Grains/Cereals,Austria,AT,47.51623,14.550072,42,Singaporean Hokkien Fried Mee,560.0,20
+Meat/Poultry,Mexico,MX,23.6345,-102.55279,17,Alice Mutton,1341.6000061035156,7
+Dairy Products,USA,US,37.09024,-95.71289,60,Camembert Pierrot,5603.200031280518,28
+Confections,UK,GB,55.37805,-3.435973,62,Tarte au sucre,591.5999908447266,29
+Meat/Poultry,Finland,FI,61.92411,25.748152,55,Pâté chinois,120.0,25
+Dairy Products,Germany,DE,51.16569,10.451526,11,Queso Cabrales,2057.9999771118164,5
+Grains/Cereals,Brazil,BR,-14.235004,-51.92528,56,Gnocchi di nonna Alice,4711.999988555908,26
+Confections,Venezuela,VE,6.42375,-66.58973,16,Pavlova,1324.4000282287598,7
+Beverages,Sweden,SE,60.128162,18.643501,75,Rhönbräu Klosterbier,776.5499935150146,12
+Seafood,Brazil,BR,-14.235004,-51.92528,36,Inlagd Sill,1310.9999990463257,17
+Dairy Products,Sweden,SE,60.128162,18.643501,32,Mascarpone Fabioli,320.0,14
+Confections,Argentina,AR,-38.416096,-63.616673,21,Sir Rodney's Scones,146.0,8
+Produce,Ireland,IE,53.41291,-8.24389,51,Manjimup Dried Apples,2194.2000732421875,24
+Meat/Poultry,UK,GB,55.37805,-3.435973,53,Perth Pasties,1704.000015258789,24
+Beverages,France,FR,46.22764,2.213749,35,Steeleye Stout,810.0,16
+Produce,Finland,FI,61.92411,25.748152,14,Tofu,674.2500114440918,6
+Meat/Poultry,UK,GB,55.37805,-3.435973,54,Tourtière,52.14999866485596,25
+Seafood,Spain,ES,40.46367,-3.74922,10,Ikura,465.0,4
+Seafood,Canada,CA,56.130367,-106.34677,40,Boston Crab Meat,734.9999904632568,19
+Seafood,Germany,DE,51.16569,10.451526,37,Gravad lax,582.3999786376953,17
+Confections,USA,US,37.09024,-95.71289,20,Sir Rodney's Marmalade,2170.800018310547,8
+Grains/Cereals,USA,US,37.09024,-95.71289,52,Filo Mix,252.0,24
+Seafood,Brazil,BR,-14.235004,-51.92528,10,Ikura,2790.0,4
+Grains/Cereals,Brazil,BR,-14.235004,-51.92528,57,Ravioli Angelo,195.0,26
+Condiments,Switzerland,CH,46.818188,8.227512,65,Louisiana Fiery Hot Pepper Sauce,210.49999237060547,2
+Dairy Products,Argentina,AR,-38.416096,-63.616673,31,Gorgonzola Telino,12.5,14
+Beverages,Ireland,IE,53.41291,-8.24389,43,Ipoh Coffee,735.9999847412109,20
+Dairy Products,Austria,AT,47.51623,14.550072,11,Queso Cabrales,1272.5999565124512,5
+Condiments,UK,GB,55.37805,-3.435973,65,Louisiana Fiery Hot Pepper Sauce,442.0499839782715,2
+Seafood,Germany,DE,51.16569,10.451526,58,Escargots de Bourgogne,1722.5,27
+Seafood,Germany,DE,51.16569,10.451526,41,Jack's New England Clam Chowder,817.9999694824219,19
+Dairy Products,Argentina,AR,-38.416096,-63.616673,11,Queso Cabrales,630.0,5
+Confections,Canada,CA,56.130367,-106.34677,47,Zaanse koeken,349.59999561309814,22
+Seafood,Brazil,BR,-14.235004,-51.92528,41,Jack's New England Clam Chowder,331.59998893737793,19
+Beverages,Spain,ES,40.46367,-3.74922,76,Lakkalikööri,90.0,23
+Dairy Products,Switzerland,CH,46.818188,8.227512,72,Mozzarella di Giovanni,730.7999839782715,14
+Beverages,France,FR,46.22764,2.213749,39,Chartreuse verte,1241.9999771118164,18
+Confections,Italy,IT,41.87194,12.56738,68,Scottish Longbreads,230.0,8
+Dairy Products,Finland,FI,61.92411,25.748152,31,Gorgonzola Telino,375.0,14
+Seafood,UK,GB,55.37805,-3.435973,41,Jack's New England Clam Chowder,346.9999885559082,19
+Produce,Norway,NO,60.472023,8.468946,28,Rössle Sauerkraut,218.40000915527344,12
+Produce,UK,GB,55.37805,-3.435973,7,Uncle Bob's Organic Dried Pears,3840.0,3
+Confections,Venezuela,VE,6.42375,-66.58973,26,Gumbär Gummibärchen,2299.229965209961,11
+Seafood,USA,US,37.09024,-95.71289,10,Ikura,2945.0,4
+Grains/Cereals,Canada,CA,56.130367,-106.34677,56,Gnocchi di nonna Alice,3724.0,26
+Dairy Products,Mexico,MX,23.6345,-102.55279,33,Geitost,170.0,15
+Confections,Germany,DE,51.16569,10.451526,19,Teatime Chocolate Biscuits,2059.8999938964844,8
+Beverages,Sweden,SE,60.128162,18.643501,1,Chai,630.0,1
+Seafood,Argentina,AR,-38.416096,-63.616673,73,Röd Kaviar,150.0,17
+Dairy Products,USA,US,37.09024,-95.71289,11,Queso Cabrales,1113.0,5
+Produce,Mexico,MX,23.6345,-102.55279,51,Manjimup Dried Apples,1060.0,24
+Grains/Cereals,UK,GB,55.37805,-3.435973,52,Filo Mix,419.99999809265137,24
+Condiments,France,FR,46.22764,2.213749,61,Sirop d'érable,855.0,29
+Meat/Poultry,Norway,NO,60.472023,8.468946,53,Perth Pasties,163.99999618530273,24
+Confections,Mexico,MX,23.6345,-102.55279,48,Chocolade,191.25,22
+Grains/Cereals,UK,GB,55.37805,-3.435973,57,Ravioli Angelo,1287.0000095367432,26
+Condiments,Germany,DE,51.16569,10.451526,8,Northwoods Cranberry Sauce,4400.0,3
+Beverages,Sweden,SE,60.128162,18.643501,38,Côte de Blaye,3952.5,18
+Meat/Poultry,Belgium,BE,50.503887,4.469936,54,Tourtière,74.49999809265137,25
+Confections,Switzerland,CH,46.818188,8.227512,62,Tarte au sucre,1035.2999839782715,29
+Seafood,Ireland,IE,53.41291,-8.24389,58,Escargots de Bourgogne,1497.2500305175781,27
+Beverages,Brazil,BR,-14.235004,-51.92528,35,Steeleye Stout,1565.9999923706055,16
+Seafood,Germany,DE,51.16569,10.451526,36,Inlagd Sill,2804.39998626709,17
+Dairy Products,UK,GB,55.37805,-3.435973,59,Raclette Courdavault,770.0,28
+Seafood,Ireland,IE,53.41291,-8.24389,18,Carnarvon Tigers,2062.5,7
+Condiments,Venezuela,VE,6.42375,-66.58973,3,Aniseed Syrup,560.0,1
+Seafood,UK,GB,55.37805,-3.435973,36,Inlagd Sill,1444.0,17
+Beverages,Belgium,BE,50.503887,4.469936,1,Chai,180.0,1
+Dairy Products,Brazil,BR,-14.235004,-51.92528,60,Camembert Pierrot,6460.00008392334,28
+Meat/Poultry,Poland,PL,51.919437,19.145136,54,Tourtière,22.34999942779541,25
+Seafood,Finland,FI,61.92411,25.748152,58,Escargots de Bourgogne,79.5,27
+Condiments,Austria,AT,47.51623,14.550072,61,Sirop d'érable,5871.0,29
+Grains/Cereals,Spain,ES,40.46367,-3.74922,42,Singaporean Hokkien Fried Mee,56.0,20
+Beverages,Mexico,MX,23.6345,-102.55279,76,Lakkalikööri,431.9999885559082,23
+Dairy Products,Ireland,IE,53.41291,-8.24389,32,Mascarpone Fabioli,1273.6000022888184,14
+Confections,Italy,IT,41.87194,12.56738,26,Gumbär Gummibärchen,796.7999877929688,11
+Confections,Brazil,BR,-14.235004,-51.92528,50,Valkoinen suklaa,406.25,23
+Beverages,Switzerland,CH,46.818188,8.227512,75,Rhönbräu Klosterbier,387.5,12
+Dairy Products,Canada,CA,56.130367,-106.34677,12,Queso Manchego La Pastora,455.9999942779541,5
+Grains/Cereals,USA,US,37.09024,-95.71289,64,Wimmers gute Semmelknödel,3458.000011444092,12
+Confections,Austria,AT,47.51623,14.550072,62,Tarte au sucre,3943.9999389648438,29
+Seafood,Poland,PL,51.919437,19.145136,58,Escargots de Bourgogne,159.0000057220459,27
+Seafood,Austria,AT,47.51623,14.550072,41,Jack's New England Clam Chowder,823.8499689102173,19
+Beverages,UK,GB,55.37805,-3.435973,70,Outback Lager,1620.0,7
+Seafood,Austria,AT,47.51623,14.550072,45,Rogede sild,256.5,21
+Dairy Products,Canada,CA,56.130367,-106.34677,60,Camembert Pierrot,4930.0,28
+Beverages,UK,GB,55.37805,-3.435973,76,Lakkalikööri,266.39999771118164,23
+Beverages,Finland,FI,61.92411,25.748152,39,Chartreuse verte,287.99999237060547,18
+Meat/Poultry,USA,US,37.09024,-95.71289,9,Mishi Kobe Niku,582.0,4
+Beverages,Ireland,IE,53.41291,-8.24389,76,Lakkalikööri,630.0,23
+Meat/Poultry,Sweden,SE,60.128162,18.643501,54,Tourtière,244.94999742507935,25
+Dairy Products,USA,US,37.09024,-95.71289,71,Flotemysost,4364.500045776367,15
+Dairy Products,Venezuela,VE,6.42375,-66.58973,59,Raclette Courdavault,6765.0,28
+Produce,Argentina,AR,-38.416096,-63.616673,28,Rössle Sauerkraut,364.79998779296875,12
+Grains/Cereals,France,FR,46.22764,2.213749,56,Gnocchi di nonna Alice,2477.599983215332,26
+Seafood,Venezuela,VE,6.42375,-66.58973,18,Carnarvon Tigers,1562.5,7
+Confections,Switzerland,CH,46.818188,8.227512,26,Gumbär Gummibärchen,999.3599853515625,11
+Grains/Cereals,Switzerland,CH,46.818188,8.227512,42,Singaporean Hokkien Fried Mee,392.0,20
+Meat/Poultry,Germany,DE,51.16569,10.451526,17,Alice Mutton,468.0000114440918,7
+Beverages,Poland,PL,51.919437,19.145136,24,Guaraná Fantástica,54.0,10
+Confections,Venezuela,VE,6.42375,-66.58973,68,Scottish Longbreads,300.0,8
+Produce,Belgium,BE,50.503887,4.469936,74,Longlife Tofu,200.0,4
+Condiments,Sweden,SE,60.128162,18.643501,4,Chef Anton's Cajun Seasoning,1364.0,2
+Beverages,France,FR,46.22764,2.213749,24,Guaraná Fantástica,170.99999904632568,10
+Beverages,Venezuela,VE,6.42375,-66.58973,2,Chang,1253.9999961853027,1
+Meat/Poultry,Austria,AT,47.51623,14.550072,55,Pâté chinois,1560.0,25
+Grains/Cereals,Canada,CA,56.130367,-106.34677,64,Wimmers gute Semmelknödel,758.1000022888184,12
+Dairy Products,Finland,FI,61.92411,25.748152,69,Gudbrandsdalsost,360.0,15
+Dairy Products,Brazil,BR,-14.235004,-51.92528,59,Raclette Courdavault,4015.0,28
+Dairy Products,Finland,FI,61.92411,25.748152,71,Flotemysost,1720.0000762939453,15
+Condiments,France,FR,46.22764,2.213749,6,Grandma's Boysenberry Spread,1750.0,3
+Grains/Cereals,Spain,ES,40.46367,-3.74922,23,Tunnbröd,90.0,9
+Seafood,Spain,ES,40.46367,-3.74922,40,Boston Crab Meat,587.9999923706055,19
+Seafood,Switzerland,CH,46.818188,8.227512,41,Jack's New England Clam Chowder,57.89999771118164,19
+Grains/Cereals,Belgium,BE,50.503887,4.469936,56,Gnocchi di nonna Alice,2203.999994277954,26
+Beverages,USA,US,37.09024,-95.71289,2,Chang,5167.999979019165,1
+Dairy Products,Italy,IT,41.87194,12.56738,60,Camembert Pierrot,136.0,28
+Confections,Italy,IT,41.87194,12.56738,62,Tarte au sucre,492.99999237060547,29
+Dairy Products,Belgium,BE,50.503887,4.469936,69,Gudbrandsdalsost,360.0,15
+Dairy Products,Canada,CA,56.130367,-106.34677,72,Mozzarella di Giovanni,1217.9999732971191,14
+Beverages,Finland,FI,61.92411,25.748152,1,Chai,360.0,1
+Beverages,France,FR,46.22764,2.213749,34,Sasquatch Ale,251.99999809265137,16
+Beverages,Mexico,MX,23.6345,-102.55279,67,Laughing Lumberjack Lager,420.0,16
+Beverages,USA,US,37.09024,-95.71289,38,Côte de Blaye,42160.00015258789,18
+Condiments,France,FR,46.22764,2.213749,4,Chef Anton's Cajun Seasoning,1100.0,2
+Condiments,Brazil,BR,-14.235004,-51.92528,44,Gula Malacca,663.7500114440918,20
+Dairy Products,Poland,PL,51.919437,19.145136,31,Gorgonzola Telino,300.0,14
+Dairy Products,USA,US,37.09024,-95.71289,32,Mascarpone Fabioli,1056.000015258789,14
+Produce,Brazil,BR,-14.235004,-51.92528,14,Tofu,348.75,6
+Grains/Cereals,Sweden,SE,60.128162,18.643501,23,Tunnbröd,270.0,9
+Seafood,Sweden,SE,60.128162,18.643501,13,Konbu,36.0,6
+Produce,Denmark,DK,56.26392,9.501785,7,Uncle Bob's Organic Dried Pears,300.0,3
+Beverages,Austria,AT,47.51623,14.550072,34,Sasquatch Ale,2100.0,16
+Seafood,Sweden,SE,60.128162,18.643501,41,Jack's New England Clam Chowder,973.5499677658081,19
+Condiments,Canada,CA,56.130367,-106.34677,77,Original Frankfurter grüne Soße,831.9999980926514,12
+Confections,UK,GB,55.37805,-3.435973,16,Pavlova,778.3999786376953,7
+Grains/Cereals,Germany,DE,51.16569,10.451526,42,Singaporean Hokkien Fried Mee,2648.7999982833862,20
+Condiments,Sweden,SE,60.128162,18.643501,63,Vegie-spread,1158.8000183105469,7
+Grains/Cereals,Ireland,IE,53.41291,-8.24389,56,Gnocchi di nonna Alice,1140.0,26
