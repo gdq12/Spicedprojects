@@ -8,46 +8,47 @@ Principle objective of this project is to build a dockerized Data Pipeline that 
 
 
 Commands for terminal:
-a. docker-compose build
-- builds the containers based on the Dockerfiles in each sub repo
-- command must be executed in terminal where the docker-compose.yaml file is
-b. docker-compose up
-- to initiate the pipeline and all containers in specified sequence (based on all container configurations)
-c. docker exec -it dockercompile_my_mongodb_1 mongo
-- once mongodb container up and running, enter container to check on collections
-d. show dbs
-- prints list of dbs in mongo, verify that twitter is in the list
-c. use twitter
-- to enter twitter db
-e. show collections
-- prints list of collections in db, should see tweets the only on_error
-f. db.tweets.find()
-- prints out all the entries (tweet dictionaries) of the tweet collection in the terminal
-g. db.tweets.count()
-- prints out the current number of entries in the tweets collection
-h. control + c
-- to leave the mongodb container
-i. docker exec -it dockercompile_my_postgresdb_1 psql -U postgres
-- to enter the postgresdb container once its up and running
-j. \l
-- once inside postgres, prints the list of dbs
-k. \c postgres
-- to enter the postgres db
-l. \dt
-- prints a list of all the tables in the db, should see tweetpostgres as the only one
-m. select * from tweetpostgres;
-- prints out all the current rows in the tweetpostgres table
-n. select count(\*) from tweetpostgres;
-- prints out the total number of rows in the tweetpostgres table
-o. control + d
-- to leave the postgres container
-p. docker start dockercompile_my_mongodb_1/dockercompile_my_postgresdb_1
-- to start the containers after the pipeline has been closed
-q. docker exec -it dockercompile_my_mongodb_1 mongo/dockercompile_my_postgres_1 psql -U postgres
-- to re-enter container after its been restarted
-- also with postgres, can just start container only and play around with table in postico rather than in terminal
+- docker-compose build
+  - builds the containers based on the Dockerfiles in each sub repo
+  - command must be executed in terminal where the docker-compose.yaml file is
+- docker-compose up
+  - to initiate the pipeline and all containers in specified sequence (based on all container configurations)
+- docker exec -it dockercompile_my_mongodb_1 mongo
+  - once mongodb container up and running, enter container to check on collections
+- show dbs
+  - prints list of dbs in mongo, verify that twitter is in the list
+- use twitter
+  - to enter twitter db
+- show collections
+  - prints list of collections in db, should see tweets the only on_error
+- db.tweets.find()
+  - prints out all the entries (tweet dictionaries) of the tweet collection in the terminal
+- db.tweets.count()
+  - prints out the current number of entries in the tweets collection
+- control + c
+  - to leave the mongodb container
+- docker exec -it dockercompile_my_postgresdb_1 psql -U postgres
+  - to enter the postgresdb container once its up and running
+- \l
+  - once inside postgres, prints the list of dbs
+- \c postgres
+  - to enter the postgres db
+- \dt
+  - prints a list of all the tables in the db, should see tweetpostgres as the only one
+- select * from tweetpostgres;
+  - prints out all the current rows in the tweetpostgres table
+- select count(\*) from tweetpostgres;
+  - prints out the total number of rows in the tweetpostgres table
+- control + d
+  - to leave the postgres container
+- docker start dockercompile_my_mongodb_1/dockercompile_my_postgresdb_1
+  - to start the containers after the pipeline has been closed
+- docker exec -it dockercompile_my_mongodb_1 mongo/dockercompile_my_postgres_1 psql -U postgres
+  - to re-enter container after its been restarted
+  - also with postgres, can just start container only and play around with table in postico rather than in terminal
 
 To check postgres db via postico:
+
 - nickname: dataPipeline
 - Host: localhost
 - Port: 5555
