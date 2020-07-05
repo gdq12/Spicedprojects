@@ -27,16 +27,16 @@ This repository consists of files needed to create and run the tweepy container,
 
 Helpful terminal commands for project revisitation:
 
-1. Running container independent of docker compose:
-  a. docker build -t containerName .
-    - create an image for container named tweet_collector with Dockerfile in current directory
-  b. docker run -it -d containerName
-    - to launch a container and print out the tweets in the terminal (w/0 -d) or run in the background (w/ -d)
-  c. control + c
-    - to stop image form running
-  d. docker start -i containerName
-    - to restart a container
-    - use docker ps -a to look up the container name
-  e. docker run -it imageID
-    - to restart a container based on image
-    - to get image id use docker images
+Running container independent of docker compose:
+- docker build -t containerName .
+  - create an image for container named tweet_collector with Dockerfile in current directory
+- docker run -it -d containerName
+  - to launch a container and print out the tweets in the terminal (w/0 -d) or run in the background (w/ -d)
+- control + c
+  - to stop image form running
+- docker start -i containerName
+  - to restart a container
+  - use docker ps -a to look up the container name
+- docker run -it imageID
+  - to restart a container based on image
+  - to get image id use docker images
