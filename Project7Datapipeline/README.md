@@ -9,4 +9,4 @@ All these steps should be successful with the DockerCompile directory and all it
 
 As an example what the final result may look like:
 
-![botScreenShot]()
+![botScreenShot](https://user-images.githubusercontent.com/52377705/86530400-b64d4a80-beb8-11ea-835f-079860cfad61.png)
