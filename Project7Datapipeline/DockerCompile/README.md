@@ -3,8 +3,8 @@ Principle objective of this project is to build a dockerized Data Pipeline that 
 - Tweepy: connects to twitter streaming api to read and collected filtered incoming tweets
 - Mongo Database: receives and stores the json format tweets within its collection.
 - ETL: container that extracts tweet info from the mongo database, calculates the sentiment factor of each tweet and transforms it to postgres friendly format and then loads it into a postgres table within its database.
-- Postgres
-- Slack Bot
+- Postgres Database: receives processed tweets from ETL container.
+- Slack Bot: executes specific sql queries and reformats them as strings for the slack bot to print in a slack channel.
 
 
 Commands for terminal:
