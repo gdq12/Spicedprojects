@@ -1,1 +1,1 @@
-GitHub repository for first 5 weeks for Allspice Arrays cohort(starting May 18, 2020) of Spiced Data Bootcamp -- includes data wrangling in pandas, data visualization, classification models, regression models, and time series analysis.
+This repository consists of projects worked on for first 5 weeks Spiced Data Bootcamp. The projects include data wrangling in pandas, data visualization, classification models, regression models, and time series analysis.

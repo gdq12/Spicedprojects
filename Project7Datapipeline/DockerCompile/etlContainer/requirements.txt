@@ -1,5 +1,0 @@
-pymongo
-SQLAlchemy
-psycopg2-binary
-vaderSentiment
-DateTime

@@ -1,6 +1,0 @@
-#must fill in one's own
-
-CONSUMER_API_KEY= ""
-CONSUMER_API_SECRET= ""
-ACCESS_TOKEN= ""
-ACCESS_TOKEN_SECRET= ""
