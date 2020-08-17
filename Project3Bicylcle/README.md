@@ -39,10 +39,11 @@ Decision Tree:
 ![DT](images/decision_tree.png)
 
 Random Forest:
+
 ![RF](images/random_forest.png)
 
 As can be seen from the graphs above, decision tree had the bet RMSLE but demonstrated possible overfitting. The next best model to use would be random forest with noAnalysis.
 
 ### Evaluating Assumptions
 
-This was done to verify the regression model is unbiased. All assumptions were met except normal residual distribution, homoscedasticity and multicolinearity. Despite these last 3 being violated, the first 4 held true, concluding that the model is unbiased. 
+This was done to verify the regression model is unbiased. All assumptions were met except normal residual distribution, homoscedasticity and multicolinearity. Despite these last 3 being violated, the first 4 held true, concluding that the model is unbiased.
