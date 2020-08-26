@@ -130,3 +130,6 @@ dmypy.json
 
 #Mac OS stuff
 .DS_Store
+
+# Project5 downloaded data
+Project5TimeSeries/TG_STAID002759.txt
