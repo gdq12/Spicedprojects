@@ -1,0 +1,82 @@
+---
+title: "Berlin Tempelhof Temperature Forecasting with ARIMA"
+output: 
+    md_document:
+        variant: markdown_github
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r ImportLibraries, message=F, warning=F}
+library(lubridate)
+library(dplyr)
+library(ggplot2)
+library(forecast)
+library(tseries)
+```
+
+### Import and Cleanup Data
+
+
+```{r ImportData}
+tempelhof=read.table("TG_STAID002759.txt", skip=20, 
+                     col.names=c("SOUID", "date", "temp", "Q_TG"), sep=',')
+
+tempelhof= tempelhof %>% select(date, temp) %>% mutate(date=ymd(date)) %>% mutate(temp=temp/10) %>% 
+    filter(between(date, as.Date("2010-01-01"), as.Date("2020-04-30")))
+
+head(tempelhof, 10)
+```
+
+**check data looks similiar as in python**
+
+```{r TempGraph}
+tempelhof2=ts(tempelhof$temp, start=c(2010,1), frequency=365)
+
+autoplot(tempelhof2)+ ggtitle("Daily Berlin Tempelhof Temperature 2010-2020") + 
+    theme(plot.title = element_text(hjust = 0.5))
+```
+
+### Stationarize Data
+
+* removes seasonality (`seassadj()`) and trend ('diff()') from decomposed (`stl()`) data
+
+```{r stationarize}
+stationed=tempelhof2 %>% stl(s.window='periodic') %>% seasadj() %>% diff()
+
+ggtsdisplay(stationed, main="", lag.max=60)
+```
+
+### Grid Search for Hyperparameter Optimization
+
+```{r gridsearch}
+ARIMAfit=auto.arima(stationed, approximation=F, trace=F)
+
+summary(ARIMAfit)
+```
+
+```{r modelfit}
+model=Arima(stationed, order=c(5,0,0))
+
+checkresiduals(model)
+```
+
+**Based on the [documentation](https://otexts.com/fpp2/arima-r.html) the main take away point in the residual plot is that the residuals are not all white noise since not all autocorrelations are within threshold limits in ACF plot.**
+
+### Forecasting 90 days into future 
+
+* slight improvement to python 
+* below show the forecast is ineffective after the 5th day
+
+```{r modelfit2, message=F, warning=F}
+forecast=data.frame(forecast(model, h=90))
+
+head(forecast$Point.Forecast, 15)
+
+autoplot(forecast(model, h=90)) + xlim(c(2020.0, 2020.4))
+```
+
+
+
