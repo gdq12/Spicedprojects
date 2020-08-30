@@ -36,10 +36,10 @@ Image above shows results of building an ARIMA model with the same data in R, as
 
 ![prohet_forecast](python_images/fbprophet_forecast.png)
 
-Prophet](https://facebook.github.io/prophet/docs/quick_start.html#python-api) package was used as well for temperature forecasting and as can be seen from above, produced the the most optimal results. Not explicitly demonstrated above but easily visible in the corresponding [jupyter notebook](Prophet.ipynb), the prophet package was able to extract components from the data and determine that there was a steady rise in temperature (trend) throughout the 10 year period. It also determined that the highest temperatures were in July and August of each year (unsurprising) and that temperature on a Thursday and Friday contributed the most to temperature (perhaps fluctuation?) in the data. Based on cross-validation done using the package, MAPE score showed that temperature predictions the model did are the most accurate up to 50 days in the future (horizon).
+[Prophet](https://facebook.github.io/prophet/docs/quick_start.html#python-api) package was used as well for temperature forecasting and as can be seen from above, produced the the most optimal results. Not explicitly demonstrated above but easily visible in the corresponding [jupyter notebook](Prophet.ipynb), the prophet package was able to extract components from the data and determine that there was a steady rise in temperature (trend) throughout the 10 year period. It also determined that the highest temperatures were in July and August of each year (unsurprising) and that temperature on a Thursday and Friday contributed the most to temperature (perhaps fluctuation?) in the data. Based on cross-validation done using the package, MAPE score showed that temperature predictions the model did are the most accurate up to 50 days in the future (horizon).
 
 ### To do
 
 * run ARIMA python in google co-lab to see if this will improve results
 * improve rolling ARIMA
-* attempt walk-forward validation for ARIMA in python 
+* attempt walk-forward validation for ARIMA in python
